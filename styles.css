@@ -1,3 +1,5 @@
 body {
-  background: #f00;
+  /*background: #f00;*/
+  background-image: url(https://warpas.github.io/img/ng-15320.jpg);
+  background-size: cover;
 }
