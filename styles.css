@@ -1,5 +1,30 @@
 body {
-  /*background: #f00;*/
-  background-image: url(https://warpas.github.io/img/ng-15320.jpg);
+  background: #000;
+}
+
+header {
+  display: grid;
+  grid-template-columns: 5% 20% 75%;
+  grid-template-rows: 10% 15% 25% 25% 25%;
+}
+
+.headline {
+  color: #FFF;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  grid-column-start: 2;
+  grid-row-start: 2;
+  grid-row-end: span 2;
+}
+
+.headline h1 {
+  font-weight: 400;
+}
+
+.splash {
+  background-image: url(img/bg-huge.jpg);
   background-size: cover;
+  background-position: center;
+  width: 1000px;
+  height: 300px;
+  grid-column-start: 3;
 }
