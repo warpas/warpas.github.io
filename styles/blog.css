@@ -12,12 +12,37 @@ body {
   justify-content: center;
   color: rgba(0, 0, 0, 0.84);
   font-size: 21px;
+  line-height: 32px;
   font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
+.container h1 {
+  font-size: 40px;
+  line-height: 48px;
+  font-weight: 400;
+  color: rgba(41, 41, 41, 1);
+}
+
+.container .post_meta {
+  display: block;
+  font-size: 16px;
+  line-height: 22px;
+  margin-bottom: 24px;
+}
+
 .image {
+  display: flex;
   align-self: center;
+  margin: 0 auto;
   width: 700px;
   border: 1px ridge;
   box-shadow: 2px 4px rgba(0, 0, 0, 0.096);
+}
+
+nav {
+  margin: 10px 0;
+}
+
+footer {
+  margin-bottom: 40px;
 }
