@@ -4,6 +4,23 @@ body {
   align-items: center;
 }
 
+header nav {
+  font-family: Cabin,Helvetica,Arial,sans-serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: space-between;
+}
+
+header nav a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+header nav a:hover {
+  color: rgba(0, 0, 0, 1);
+}
+
 .container {
   width: 800px;
   margin: 20px;
@@ -16,16 +33,26 @@ body {
   font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
+.container ul {
+  list-style-type: none;
+}
+
 .container ul li {
-  margin: 20px;
+  margin: 25px 0;
 }
 
 .container ul li a {
   text-decoration: none;
+  color: rgba(41, 41, 41, 1);
+}
+
+.container ul li a:hover {
+  color: #2e57c2;
 }
 
 .container ul li .post_meta {
   display: block;
   font-size: 16px;
   line-height: 22px;
+  color: rgba(0, 0, 0, 0.5);
 }
