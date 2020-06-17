@@ -5,11 +5,13 @@ body {
 }
 
 header nav {
-  font-family: Cabin,Helvetica,Arial,sans-serif;
-  font-weight: normal;
-  text-transform: uppercase;
   display: flex;
   justify-content: space-between;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-size: 13px;
+  line-height: 19px;
 }
 
 header nav a {
@@ -24,10 +26,6 @@ header nav a:hover {
 .container {
   width: 800px;
   margin: 20px;
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* justify-content: center; */
-  /* color: rgba(0, 0, 0, 0.84); */
   font-size: 21px;
   line-height: 32px;
   font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
@@ -35,6 +33,7 @@ header nav a:hover {
 
 .container ul {
   list-style-type: none;
+  padding: 0;
 }
 
 .container ul li {
@@ -50,9 +49,36 @@ header nav a:hover {
   color: #2e57c2;
 }
 
-.container ul li .post_meta {
+.container .post_meta {
   display: block;
   font-size: 16px;
   line-height: 22px;
   color: rgba(0, 0, 0, 0.5);
+}
+
+.container ul.contact_list {
+  margin: 0;
+}
+
+.container ul.contact_list li {
+  margin: 0;
+}
+
+footer nav {
+  display: flex;
+  justify-content: space-between;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-size: 13px;
+  line-height: 19px;
+}
+
+footer nav a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+footer nav a:hover {
+  color: rgba(0, 0, 0, 1);
 }

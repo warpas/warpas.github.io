@@ -1,9 +1,3 @@
-body {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
 .container {
   width: 800px;
   margin: 20px;
@@ -24,9 +18,6 @@ body {
 }
 
 .container .post_meta {
-  display: block;
-  font-size: 16px;
-  line-height: 22px;
   margin-bottom: 24px;
 }
 
