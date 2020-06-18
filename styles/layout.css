@@ -47,6 +47,7 @@ header nav a:hover {
 
 .container ul li a:hover {
   color: #2e57c2;
+  fill: #2e57c2;
 }
 
 .container .post_meta {
@@ -63,6 +64,22 @@ header nav a:hover {
 .container ul.contact_list li {
   margin: 0;
 }
+
+.container ul.contact_list li .icon {
+  height: 25px;
+  width: 25px;
+  line-height: 32px;
+  position: relative;
+}
+
+.container ul.contact_list li .email_icon {
+  bottom: -6px;
+}
+
+.container ul.contact_list li .github_icon {
+  bottom: -2px;
+}
+
 
 footer nav {
   display: flex;
