@@ -35,21 +35,19 @@ CLI used to be the default way to interact with the computer before Windows exis
 
 ### Interfaces on the Internet!
 
-You know how to use Google search. Maybe you don’t use search parameters that often (“kotlin site:blog.duolingo.com”) but that’s a bit too close to CLI territory. You know your way around the web. You can comfortably click/swipe through Wikipedia, Youtube, Facebook, Pinterest, Discord, TickTok or your other favourite websites. Did you know you can also use these sites without having to visit them personally? You could just write a tiny script that does something for you.
+You know how to use Google search. Maybe you don’t use search parameters that often (“kotlin site:blog.duolingo.com”) but that’s a bit too close to CLI territory. You know your way around the web. You can comfortably click/swipe through Wikipedia, Youtube, Facebook, Pinterest, Discord, TikTok or your other favourite web applications. Did you know you can also use the features of these sites without having to visit them or have their apps installed? You could just write a tiny script that does something for you.
 
-**<WE GOT HERE EDITING !!!!!>**
+Were you ever in a situation when you wanted to buy tickets to a concert and refreshed the page over and over again in order to get the tickets before they’re all sold out? That’s what a script could do for you. It’s a bit crude, because the script you write technically tries to imitate human behaviour controlling the computer’s input methods. It can enter text or click on things. Here’s a 20 second bit demo of a program doing that, if you’re interested - [Al Sweigart’s MS Paint demo - Switch to a Youtube embed!!!!!!](https://youtu.be/dZLyfbSQPXI?t=1050).
 
-Were you ever in a situation when you wanted to buy tickets to a concert and refreshed the page over and over again in order to get the tickets before they’re all sold out? That’s what a script could do for you. It’s a bit crude, because the script you write technically tries to act like a human controlling the computer’s input methods. It can input text or click on things.
-
-<link to Al Sweigart painting squares with a script>
-But there are ways to write scripts that can do much more meaningful actions than clicking or using the keyboard. You can write a script that adds an event to your calendar. It doesn’t have to click around the Google Calendar UI <Insert a GIF of adding a Google Calendar event>
-It can do it with just one command. This is where the aforementioned API comes in.
+But there are ways to write scripts that can do much more meaningful actions than clicking or using the keyboard. You can write a script that adds an event to your calendar. It doesn’t have to click around the Google Calendar UI <[Youtube video on how to add it manually - Switch to a Youtube embed!!!!!](https://youtu.be/s8APbxFVF2I)> It can do it with just one command<Add this command here in some form>. This is where the aforementioned API comes in.
 
 ### Apps can talk to each other
 
 Imagine you use Google Calendar to schedule a few video calls for work, and later you need to count the time you spent on those calls and use the total hour count in a monthly invoice that you keep the template for in Google Sheets. You could manually count those hours up . You could then fill your invoice template and be done with it. Done for this month. Then do that again next month. And so on, for every month for the foreseeable future…
 
-There’s also another way. These apps can talk to each other for you. Computers are great at boring, repeatable tasks. You could have a simple script  ask Google Calendar about those events from an entire month. Then it would calculate the hours you need for your invoice. Then send the data to Google Sheets, to the exact template you want. Once you have that script, all you have to do is run it once every month. That could be automated as well.
+**<WE GOT HERE EDITING !!!!!>**
+
+There’s also another way. These apps can talk to each other for you. Computers are great at boring, repeatable tasks. You could have a simple script ask Google Calendar about those events from an entire month. Then it would calculate the hours you need for your invoice. Then send the data to Google Sheets, to the exact template you want. Once you have that script, all you have to do is run it once every month. That could be automated as well.
 
 What I wanted to illustrate with that example is that many of the web applications you use every month can talk to one another. More specifically - you can make them send specific messages between them.  Messages like these:
 * “Hey Google Calendar, create a calendar event corresponding with this Toggl time entry”.
