@@ -45,17 +45,21 @@ But there are ways to write scripts that can do much more meaningful actions tha
 
 Imagine you use Google Calendar to schedule a few video calls for work, and later you need to count the time you spent on those calls and use the total hour count in a monthly invoice that you keep the template for in Google Sheets. You could manually count those hours up . You could then fill your invoice template and be done with it. Done for this month. Then do that again next month. And so on, for every month for the foreseeable future…
 
-**<WE GOT HERE EDITING !!!!!>**
-
-There’s also another way. These apps can talk to each other for you. Computers are great at boring, repeatable tasks. You could have a simple script ask Google Calendar about those events from an entire month. Then it would calculate the hours you need for your invoice. Then send the data to Google Sheets, to the exact template you want. Once you have that script, all you have to do is run it once every month. That could be automated as well.
+There’s also another way. These apps can talk to each other for you. Computers are great at boring, repeatable tasks. You could have a simple script ask Google Calendar about those events on your behalf. Then it would calculate the hours you need for your invoice. Then send the data to Google Sheets, to the exact template you want. Once you have that script, all you have to do is run it once every month. That could be automated as well.
 
 What I wanted to illustrate with that example is that many of the web applications you use every month can talk to one another. More specifically - you can make them send specific messages between them.  Messages like these:
 * “Hey Google Calendar, create a calendar event corresponding with this Toggl time entry”.
 * “Hey Twitter, I want you to post on my behalf whenever I publish a video on Youtube”
 * “Hey Trello, I want you to create a card in my project whenever I get the email newsletter from my favourite source”.
-The only requirement to participate in that conversation is to provide, what nerds call, “a public API”.
 
-### Wait, what are those APIs?
+The only requirement an application has to fulfil to participate in that conversation is to provide, what nerds call, “a public API”.
+
+**<WE GOT HERE EDITING !!!!!>**
+
+### So what are those APIs?
+
+It’s a type of interface.
+
 
  An API is a different way of communication with the same services. It stands for “application programming interface”. I’ll show you why it has “programming” in the name. Communicating with an application through an API is a bit different to the UI. It’s more precise but with a caveat - it’s more difficult to read for humans. Take a look!
 
