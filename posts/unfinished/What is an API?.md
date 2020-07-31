@@ -52,30 +52,30 @@ What I wanted to illustrate with that example is that many of the web applicatio
 * “Hey Twitter, I want you to post on my behalf whenever I publish a video on Youtube”
 * “Hey Trello, I want you to create a card in my project whenever I get the email newsletter from my favourite source”.
 
-The only requirement an application has to fulfil to participate in that conversation is to provide, what nerds call, “a public API”.
-
-**<WE GOT HERE EDITING !!!!!>**
+The only requirement an application has to fulfil to participate in that conversation is to provide, what nerds call, “an API”.
 
 ### So what are those APIs?
 
-It’s a type of interface.
-
-
- An API is a different way of communication with the same services. It stands for “application programming interface”. I’ll show you why it has “programming” in the name. Communicating with an application through an API is a bit different to the UI. It’s more precise but with a caveat - it’s more difficult to read for humans. Take a look!
+The shortcut stands for Application Programming Interface. You already know what some interfaces are. This one’s for programming. You could understand it as sending messages to the application directly. Communicating with an application through an API is a bit different to the UI. It’s more precise but more difficult to read for humans. Take a look!
 
 ![](What%20is%20an%20API?/google_api.png)
 
-In the example above the green box  contains the request we send to the API endpoint, and the blue box contains the response from the server.  To the untrained eye it’s far from understandable English sentences and closer to math equations or even random strings of characters with some English words thrown in for giggles. The response you get depends on the request you send. Without any prior knowledge it’s difficult to guess what request you should send to get a desired response.
+Those messages aren’t pretty. To the untrained eye it’s far from understandable English sentences and closer to math equations or even random strings of characters with some English words thrown in for giggles. At least at the first glance. But I bet you could understand parts of it. What do you think it does? What service does it access? What did the service respond with? What can you deduce from the URL in the green box? Please take 10-15 seconds to think about it.
+
+There are two messages here:
+* The request I sent - in the green box
+* The response from the API - in the blue
+
+The exchange in the example above shows a “Seattle” query to Google Search. The response you get depends on the request you send. Without any prior knowledge it’s difficult to guess what request you should send to get the desired response.
 
 Luckily with popular APIs you don’t have to guess. The example above is based on instructions from [Google’s developer docs](https://developers.google.com/custom-search/v1/using_rest#making_a_request). The documentation specifies what you can expect. “Click here to get the API key”, “send us your key and the search query term and we’ll send you the query result in JSON format”.
 
 API is a precise way of communicating. Once you figure out how a particular API endpoint works, you can rely on it to give you a predictable response. And if you get lost you can always read the docs or rely on trial and error.
 
-### The “I’m not a programmer, I don’t care” section <needs better title>
 ### In conclusion
 
 You don’t need to be a programmer to take advantage of APIs. There are plenty of programmers who have already written scripts for most of the use cases that interest you. And you can use a lot of existing APIs on you phone with the Shortcuts app (iOS) or Action Blocks (Android). But using APIs by non-programmers is a topic for another time.
 
-There is a different, much more important reason why I took so long talking about APIs today. The model of communication the APIs use (doesn’t matter if it’s REST or GraphQL) is an accurate metaphorical way of thinking about  communication between people. It’s a fascinating topic and I can’t wait to talk about it detail next time!
+There is a different, much more important reason why I took so long talking about APIs today. The model of communication the APIs use (doesn’t matter if it’s REST or GraphQL) is an accurate metaphorical way of thinking about communication between people. It’s a fascinating topic and I can’t wait to talk about it in detail next time! Thank you for reading! ❤️
 
 _No, I’m not shooting for a_ [Wait But Why](https://waitbutwhy.com/) _post length anytime soon._
