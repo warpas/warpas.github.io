@@ -14,9 +14,9 @@ You probably know what a visual User Interface is. One of the simplest UIs you�
 Just type what you want to find, press “Enter” or click one of two buttons. Interfaces usually strive for simplicity. Your interactions with them come down mostly to clicking, swiping or using the keyboard to type a bit, drag-and-drop elements around and to push buttons on the screen. But I don’t want to dwell on UI design here. Let’s just say the more useful a program tries to be, the more complex the UI gets. You’ve probably come across interfaces like these:
 
 [Blender UI](https://i.redd.it/u9nha9xbudnz.jpg) <change to img tag>
-[Link to a thread](https://www.reddit.com/r/computers/comments/71pcgm/post_software_with_the_most_complicated_ui/) with some another daunting examples.
+Finding a set of daunting examples is, as always, just one Google Search away. I found [this Reddit thread](https://www.reddit.com/r/computers/comments/71pcgm/post_software_with_the_most_complicated_ui/), but that’s only the tip of the iceberg.
 
-They’re not pretty, but  they get their job done. The more features they brag about, the longer you have to spend on tutorials to know your way around the application.  But fear not! Interfaces can have an even more simplistic look and at the same time be even harder to use for the uninitiated.  I’m talking, of course, about CLI.
+Those interfaces are not pretty, but  they get their job done. The more features they brag about, the longer you have to spend on tutorials to know your way around the application.  But fear not! Interfaces can have an even more simplistic look and at the same time be even harder to use for the uninitiated.  I’m talking, of course, about CLI.
 
 Command Line Interface. Anyone who tried to learn programming probably came across this beast at some point. I’m fairly sure it made a bad first impression.
 
