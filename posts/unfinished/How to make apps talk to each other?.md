@@ -1,29 +1,33 @@
-# What is an API?
+# How to make apps talk to each other?
 #coding #computing101 #post/in_progress
 
-There are a many ways to interact with computer systems. How often do you think about alternate methods of using your favourite phone app?
+How often do you think about alternate methods of using your favourite phone app? There are many ways to interact with computer systems.  I’d like to expose you to one particular method, that most non-programmers don’t usually think about. It happens to be potent in making apps even more useful. It also gives a powerful model for human communication. I’m talking, of course, about APIs.
 
- I’d like to bring you closer to one particular method, that most non-programmers don’t usually think about. It happens to be potent in making apps even more useful. It also gives a powerful model for human communication. I’m talking, of course, about APIs. What are those? Well, do I have a treat for you today!
+What are those? Well, do I have a treat for you today!
 
-### Interfaces around you
+### The human-friendly ways
 
 You probably know what a visual User Interface is. One of the simplest UIs you’ve ever seen is the front page of Google Search.
 
-![](What%20is%20an%20API?/google_ui.png)
+![](How%20to%20make%20apps%20talk%20to%20each%20other?/google_ui.png)
 
-Just type what you want to find, press “Enter” or click one of two buttons. Interfaces usually strive for simplicity. Your interactions with them come down mostly to clicking, swiping or using the keyboard to type a bit, drag-and-drop elements around and to push buttons on the screen. But I don’t want to dwell on UI design here. Let’s just say the more useful a program tries to be, the more complex the UI gets. You’ve probably come across interfaces like these:
+Just type what you want to find, press “Enter” or click one of two buttons. Interfaces usually strive for simplicity. Your interactions with them come down mostly to clicking, swiping or using the keyboard to type a bit, drag-and-drop elements around and to push buttons on the screen. But I don’t want to dwell on UI design here. Let’s just say the more useful a program tries to be, the more complex the UI gets. Finding a set of daunting examples is, as always, just one Google Search away. I found [this Reddit thread](https://www.reddit.com/r/computers/comments/71pcgm/post_software_with_the_most_complicated_ui/), but that’s only the tip of the iceberg. You might have come across something like the Blender image below.
 
 [Blender UI](https://i.redd.it/u9nha9xbudnz.jpg) <change to img tag>
-Finding a set of daunting examples is, as always, just one Google Search away. I found [this Reddit thread](https://www.reddit.com/r/computers/comments/71pcgm/post_software_with_the_most_complicated_ui/), but that’s only the tip of the iceberg.
 
-Those interfaces are not pretty, but  they get their job done. The more features they brag about, the longer you have to spend on tutorials to know your way around the application.  But fear not! Interfaces can have an even more simplistic look and at the same time be even harder to use for the uninitiated.  I’m talking, of course, about CLI.
+Those interfaces are not pretty, but  they get the job done. The more features they brag about, the longer you have to spend on tutorials to know your way around the application.  Some common characteristics of these UIs are:
+* They are designed so you could figure out how to use them your own
+* Touch, mouse and keyboard are the primary input methods
+* …
+
+But fear not! Interfaces can have an even more simplistic look and at the same time be even harder to use for the uninitiated.  I’m talking, of course, about CLI.
 
 Command Line Interface. Anyone who tried to learn programming probably came across this beast at some point. I’m fairly sure it made a bad first impression.
 
-![](What%20is%20an%20API?/Screenshot%202020-06-29%20at%2017.30.02.png)
+![](How%20to%20make%20apps%20talk%20to%20each%20other?/Screenshot%202020-06-29%20at%2017.30.02.png)
 The command above just lists the contents of a folder. The same thing looks like this in Finder. I’m sure you know how it would look on Windows.
 
-![](What%20is%20an%20API?/Screenshot%202020-06-29%20at%2017.34.21.png)
+![](How%20to%20make%20apps%20talk%20to%20each%20other?/Screenshot%202020-06-29%20at%2017.34.21.png)
 
 The simplicity of the Command Line Interface comes from the input method - the keyboard. You can be sure that any type of interaction from the user in that wretched system will be text-based. The only way to interact with it is to just type out commands you want to run. It’s simple if you know the command you want to run. It’s UX hell if you don’t know them.
 
@@ -58,7 +62,7 @@ The only requirement an application has to fulfil to participate in that convers
 
 The shortcut stands for Application Programming Interface. You already know what some interfaces are. This one’s for programming. You could understand it as sending messages to the application directly. Communicating with an application through an API is a bit different to the UI. It’s more precise but more difficult to read for humans. Take a look!
 
-![](What%20is%20an%20API?/google_api.png)
+![](How%20to%20make%20apps%20talk%20to%20each%20other?/google_api.png)
 
 Those messages aren’t pretty. To the untrained eye it’s far from understandable English sentences and closer to math equations or even random strings of characters with some English words thrown in for giggles. At least at the first glance. But I bet you could understand parts of it. What do you think it does? What service does it access? What did the service respond with? What can you deduce from the URL in the green box? Please take 10-15 seconds to think about it.
 
