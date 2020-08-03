@@ -1,4 +1,11 @@
 # How to make apps talk to each other?
+- [ ] Slabo zdefiniowany czytelnik docelowy - przekaz nie zdaje się być dopasowany do jednego typu czytelnika. Niepotrzebne rozwadnianie przekazu zdaniami o tym, co czytelnik wie albo o czym ten artykul nie jest.
+- [ ] rozdzielić na 3 artykuły
+	- [ ] Human API (większość już wydzielona, ale komentarz o “powerful model for human communication” nie jest tu potrzebny
+	- [ ] Historia rozwoju UI
+- [ ] Zmiana tytułu - ten nie mówi “how to **MAKE** apps talk”. Bardzie “how they do it”
+- [ ] Wywalić komentarze typu “I’m not going to get into it”. Just don’t get into it
+
 #coding #computing101 #post/in_progress
 
 How often do you think about alternate methods of using your favourite phone app? There are many ways to interact with computer systems.  I’d like to expose you to one particular method, that most non-programmers don’t usually think about. It happens to be potent in making apps even more useful. It also gives a powerful model for human communication. I’m talking, of course, about APIs.
@@ -16,8 +23,8 @@ Just type what you want to find, press “Enter” or click one of two buttons. 
 [Blender UI](https://i.redd.it/u9nha9xbudnz.jpg) <change to img tag>
 
 Those interfaces are not pretty, but  they get the job done. The more features they brag about, the longer you have to spend on tutorials to know your way around the application.  Some common characteristics of these UIs are:
-* They are designed so you could figure out how to use them your own
-* Touch, mouse and keyboard are the primary input methods
+* They are designed so you could figure out how to use them on your own
+* Touch, mouse and keyboard are the primary input methods. Usually in that order of importance
 * …
 
 But fear not! Interfaces can have an even more simplistic look and at the same time be even harder to use for the uninitiated.  I’m talking, of course, about CLI.
