@@ -1,24 +1,29 @@
-# How to make apps talk to each other?
+# How do apps talk to each other?
 - [ ] Slabo zdefiniowany czytelnik docelowy - przekaz nie zdaje się być dopasowany do jednego typu czytelnika. Niepotrzebne rozwadnianie przekazu zdaniami o tym, co czytelnik wie albo o czym ten artykul nie jest.
-- [ ] rozdzielić na 3 artykuły
-	- [ ] Human API (większość już wydzielona, ale komentarz o “powerful model for human communication” nie jest tu potrzebny
-	- [ ] Historia rozwoju UI
-- [ ] Zmiana tytułu - ten nie mówi “how to **MAKE** apps talk”. Bardzie “how they do it”
+- [x] rozdzielić na 3 artykuły
+	- [x] Human API (większość już wydzielona, ale komentarz o “powerful model for human communication” nie jest tu potrzebny
+	- [x] Historia rozwoju UI
+- [x] Zmiana tytułu - ten nie mówi “how to **MAKE** apps talk”. Bardzie “how they do it”
 - [ ] Wywalić komentarze typu “I’m not going to get into it”. Just don’t get into it
+- [ ] Dodać na końcu coś o “It also gives a powerful model for human communication. “?
 
 #coding #computing101 #post/in_progress
 
-How often do you think about alternate methods of using your favourite phone app? There are many ways to interact with computer systems.  I’d like to expose you to one particular method, that most non-programmers don’t usually think about. It happens to be potent in making apps even more useful. It also gives a powerful model for human communication. I’m talking, of course, about APIs.
+How often do you think about alternate methods of using your favourite phone app? There are many ways to interact with computer systems.  I’d like to expose you to one particular method, that most non-programmers don’t usually think about. It happens to be potent in making apps even more useful. I’m talking, of course, about APIs.
 
 What are those? Well, do I have a treat for you today!
 
 ### The human-friendly ways
 
-You probably know what a visual User Interface is. One of the simplest UIs you’ve ever seen is the front page of Google Search.
+You’ve seen visual User Interfaces hundreds of times. One of the simplest example of an UIs is the front page of Google Search.
 
-![](How%20to%20make%20apps%20talk%20to%20each%20other?/google_ui.png)
+![](How%20do%20apps%20talk%20to%20each%20other?/google_ui.png)
 
-Just type what you want to find, press “Enter” or click one of two buttons. Interfaces usually strive for simplicity. Your interactions with them come down mostly to clicking, swiping or using the keyboard to type a bit, drag-and-drop elements around and to push buttons on the screen. But I don’t want to dwell on UI design here. Let’s just say the more useful a program tries to be, the more complex the UI gets. Finding a set of daunting examples is, as always, just one Google Search away. I found [this Reddit thread](https://www.reddit.com/r/computers/comments/71pcgm/post_software_with_the_most_complicated_ui/), but that’s only the tip of the iceberg. You might have come across something like the Blender image below.
+Just type what you want to find, press “Enter” or click one of two buttons. 
+
+<THIS IS THE PROGRESS OF THE CURRENT **EDITING PASS**>
+
+Interfaces usually strive for simplicity. Your interactions with them come down mostly to clicking, swiping or using the keyboard to type a bit, drag-and-drop elements around and to push buttons on the screen. But I don’t want to dwell on UI design here. Let’s just say the more useful a program tries to be, the more complex the UI gets. Finding a set of daunting examples is, as always, just one Google Search away. I found [this Reddit thread](https://www.reddit.com/r/computers/comments/71pcgm/post_software_with_the_most_complicated_ui/), but that’s only the tip of the iceberg. You might have come across something like the Blender image below.
 
 [Blender UI](https://i.redd.it/u9nha9xbudnz.jpg) <change to img tag>
 
@@ -31,10 +36,10 @@ But fear not! Interfaces can have an even more simplistic look and at the same t
 
 Command Line Interface. Anyone who tried to learn programming probably came across this beast at some point. I’m fairly sure it made a bad first impression.
 
-![](How%20to%20make%20apps%20talk%20to%20each%20other?/Screenshot%202020-06-29%20at%2017.30.02.png)
+![](How%20do%20apps%20talk%20to%20each%20other?/Screenshot%202020-06-29%20at%2017.30.02.png)
 The command above just lists the contents of a folder. The same thing looks like this in Finder. I’m sure you know how it would look on Windows.
 
-![](How%20to%20make%20apps%20talk%20to%20each%20other?/Screenshot%202020-06-29%20at%2017.34.21.png)
+![](How%20do%20apps%20talk%20to%20each%20other?/Screenshot%202020-06-29%20at%2017.34.21.png)
 
 The simplicity of the Command Line Interface comes from the input method - the keyboard. You can be sure that any type of interaction from the user in that wretched system will be text-based. The only way to interact with it is to just type out commands you want to run. It’s simple if you know the command you want to run. It’s UX hell if you don’t know them.
 
@@ -59,17 +64,17 @@ Imagine you use Google Calendar to schedule a few video calls for work, and late
 There’s also another way. These apps can talk to each other for you. Computers are great at boring, repeatable tasks. You could have a simple script ask Google Calendar about those events on your behalf. Then it would calculate the hours you need for your invoice. Then send the data to Google Sheets, to the exact template you want. Once you have that script, all you have to do is run it once every month. That could be automated as well.
 
 What I wanted to illustrate with that example is that many of the web applications you use every month can talk to one another. More specifically - you can make them send specific messages between them.  Messages like these:
-* “Hey Google Calendar, create a calendar event corresponding with this Toggl time entry”.
+* “Hey Google Calendar, create a calendar event corresponding with this Toggl time entry”. 
 * “Hey Twitter, I want you to post on my behalf whenever I publish a video on Youtube”
 * “Hey Trello, I want you to create a card in my project whenever I get the email newsletter from my favourite source”.
 
-The only requirement an application has to fulfil to participate in that conversation is to provide, what nerds call, “an API”.
+The only requirement an application has to fulfil to participate in that conversation is to provide, what nerds call, “an API”. 
 
 ### So what are those APIs?
 
 The shortcut stands for Application Programming Interface. You already know what some interfaces are. This one’s for programming. You could understand it as sending messages to the application directly. Communicating with an application through an API is a bit different to the UI. It’s more precise but more difficult to read for humans. Take a look!
 
-![](How%20to%20make%20apps%20talk%20to%20each%20other?/google_api.png)
+![](How%20do%20apps%20talk%20to%20each%20other?/google_api.png)
 
 Those messages aren’t pretty. To the untrained eye it’s far from understandable English sentences and closer to math equations or even random strings of characters with some English words thrown in for giggles. At least at the first glance. But I bet you could understand parts of it. What do you think it does? What service does it access? What did the service respond with? What can you deduce from the URL in the green box? Please take 10-15 seconds to think about it.
 
