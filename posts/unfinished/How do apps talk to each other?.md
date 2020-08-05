@@ -19,18 +19,24 @@ You’ve seen visual User Interfaces hundreds of times. One of the simplest exam
 
 ![](How%20do%20apps%20talk%20to%20each%20other?/google_ui.png)
 
-Just type what you want to find, press “Enter” or click one of two buttons. 
+Just type what you want to find, press “Enter” or click one of two buttons.
 
 <THIS IS THE PROGRESS OF THE CURRENT **EDITING PASS**>
 
-Interfaces usually strive for simplicity. Your interactions with them come down mostly to clicking, swiping or using the keyboard to type a bit, drag-and-drop elements around and to push buttons on the screen. But I don’t want to dwell on UI design here. Let’s just say the more useful a program tries to be, the more complex the UI gets. Finding a set of daunting examples is, as always, just one Google Search away. I found [this Reddit thread](https://www.reddit.com/r/computers/comments/71pcgm/post_software_with_the_most_complicated_ui/), but that’s only the tip of the iceberg. You might have come across something like the Blender image below.
+Some common characteristics of web UIs are:
+* They strive for simplicity - they are designed so you could figure out how to use them on your own
+* You interact with this type of interface primarily with touch screens, mouse and keyboard. Usually in that order of importance.
+* The  interface responds visually - it redirects you, draws something, flashes or throws an infinite spinner
+*
+
+
+-Your interactions with them come down mostly to clicking, swiping or using the keyboard to type a bit, drag-and-drop elements around and to push buttons on the screen.-
+
+Let’s just say the more useful a program tries to be, the more complex the UI gets. Finding a set of daunting examples is, as always, just one Google Search away. I found [this Reddit thread](https://www.reddit.com/r/computers/comments/71pcgm/post_software_with_the_most_complicated_ui/), but that’s only the tip of the iceberg. You might have come across something like the Blender image below.
 
 [Blender UI](https://i.redd.it/u9nha9xbudnz.jpg) <change to img tag>
 
-Those interfaces are not pretty, but  they get the job done. The more features they brag about, the longer you have to spend on tutorials to know your way around the application.  Some common characteristics of these UIs are:
-* They are designed so you could figure out how to use them on your own
-* Touch, mouse and keyboard are the primary input methods. Usually in that order of importance
-* …
+Those interfaces are not pretty, but  they get the job done. The more features they brag about, the longer you have to spend on tutorials to know your way around the application.
 
 But fear not! Interfaces can have an even more simplistic look and at the same time be even harder to use for the uninitiated.  I’m talking, of course, about CLI.
 
@@ -64,11 +70,11 @@ Imagine you use Google Calendar to schedule a few video calls for work, and late
 There’s also another way. These apps can talk to each other for you. Computers are great at boring, repeatable tasks. You could have a simple script ask Google Calendar about those events on your behalf. Then it would calculate the hours you need for your invoice. Then send the data to Google Sheets, to the exact template you want. Once you have that script, all you have to do is run it once every month. That could be automated as well.
 
 What I wanted to illustrate with that example is that many of the web applications you use every month can talk to one another. More specifically - you can make them send specific messages between them.  Messages like these:
-* “Hey Google Calendar, create a calendar event corresponding with this Toggl time entry”. 
+* “Hey Google Calendar, create a calendar event corresponding with this Toggl time entry”.
 * “Hey Twitter, I want you to post on my behalf whenever I publish a video on Youtube”
 * “Hey Trello, I want you to create a card in my project whenever I get the email newsletter from my favourite source”.
 
-The only requirement an application has to fulfil to participate in that conversation is to provide, what nerds call, “an API”. 
+The only requirement an application has to fulfil to participate in that conversation is to provide, what nerds call, “an API”.
 
 ### So what are those APIs?
 
