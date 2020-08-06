@@ -24,11 +24,11 @@ Just type what you want to find, press “Enter” or click one of two buttons.
 <THIS IS THE PROGRESS OF THE CURRENT **EDITING PASS**>
 
 Some common characteristics of web UIs are:
-* They strive for simplicity - they are designed so you could figure out how to use them on your own
+* Main design goal - They strive for simplicity - they are designed to be as easy to learn as possible so you could figure out how to use them on your own
 * You interact with this type of interface primarily with touch screens, mouse and keyboard. Usually in that order of importance.
-* The  interface responds visually - it redirects you, draws something, flashes or throws an infinite spinner
-*
+* The interface responds visually - it redirects you, draws something, flashes or throws a spinner on the screen to ease wait time
 
+The same set of design principles applies to GUIs - graphical user interfaces. You know - your Windows, Mac or Linux applications. And, in many ways, to phone and tablet apps.
 
 -Your interactions with them come down mostly to clicking, swiping or using the keyboard to type a bit, drag-and-drop elements around and to push buttons on the screen.-
 
@@ -42,10 +42,19 @@ But fear not! Interfaces can have an even more simplistic look and at the same t
 
 Command Line Interface. Anyone who tried to learn programming probably came across this beast at some point. I’m fairly sure it made a bad first impression.
 
-![](How%20do%20apps%20talk%20to%20each%20other?/Screenshot%202020-06-29%20at%2017.30.02.png)
-The command above just lists the contents of a folder. The same thing looks like this in Finder. I’m sure you know how it would look on Windows.
-
 ![](How%20do%20apps%20talk%20to%20each%20other?/Screenshot%202020-06-29%20at%2017.34.21.png)
+
+This example is the folder view in Finder. I’m sure you know what it would look like on Windows. The same thing looks like this in the command line:
+
+![](How%20do%20apps%20talk%20to%20each%20other?/Screenshot%202020-06-29%20at%2017.30.02.png)
+
+- - - -
+Some common characteristics of CLIs are:
+* Main design goal - They strive to be fast, powerful and all that with the fewest possible inputs. The price to pay is - they have a considerably steeper learning curve initially.
+* You interact with this type of interface almost exclusively with the keyboard. You can use the mouse but make no mistake - that’s definitely the secondary input device with a CLI.
+* The interface responds with text. Luckily the text can have some colour to it and nowadays emojis are also usable 🥳
+- - - -
+![](How%20do%20apps%20talk%20to%20each%20other?/Screenshot%202020-08-06%20at%2019.50.34.png)
 
 The simplicity of the Command Line Interface comes from the input method - the keyboard. You can be sure that any type of interaction from the user in that wretched system will be text-based. The only way to interact with it is to just type out commands you want to run. It’s simple if you know the command you want to run. It’s UX hell if you don’t know them.
 
