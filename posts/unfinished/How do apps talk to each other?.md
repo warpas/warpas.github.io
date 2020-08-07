@@ -23,12 +23,15 @@ Just type what you want to find, press “Enter” or click one of two buttons.
 
 <THIS IS THE PROGRESS OF THE CURRENT **EDITING PASS**>
 
+- - - -
 Some common characteristics of web UIs are:
 * Main design goal - They strive for simplicity - they are designed to be as easy to learn as possible so you could figure out how to use them on your own
-* You interact with this type of interface primarily with touch screens, mouse and keyboard. Usually in that order of importance.
-* The interface responds visually - it redirects you, draws something, flashes or throws a spinner on the screen to ease wait time
+* Learning curve - UIs usually start off easy and intuitive. The more features they have the more documentation/tutorials they require.
+* Input method - You interact with this type of interface primarily with touch screens, mouse and keyboard. Usually in that order of importance.
+* Response - The interface responds visually - it redirects you, draws something, flashes or throws a spinner on the screen to ease wait time
+- - - -
 
-The same set of design principles applies to GUIs - graphical user interfaces. You know - your Windows, Mac or Linux applications. And, in many ways, to phone and tablet apps.
+The same broad list would apply to all types of GUIs - graphical user interfaces. That would be nerd-speak for your Windows, Mac or Linux applications, as well as phone and tablet apps.
 
 -Your interactions with them come down mostly to clicking, swiping or using the keyboard to type a bit, drag-and-drop elements around and to push buttons on the screen.-
 
@@ -51,8 +54,9 @@ This example is the folder view in Finder. I’m sure you know what it would loo
 - - - -
 Some common characteristics of CLIs are:
 * Main design goal - They strive to be fast, powerful and all that with the fewest possible inputs. The price to pay is - they have a considerably steeper learning curve initially.
-* You interact with this type of interface almost exclusively with the keyboard. You can use the mouse but make no mistake - that’s definitely the secondary input device with a CLI.
-* The interface responds with text. Luckily the text can have some colour to it and nowadays emojis are also usable 🥳
+* Learning curve -  The basics of CLI use are not intuitive in my opinion. Getting over that initial hump is difficult without a good tutorial, book, mentor or technical manual. The more you know the easier it gets though. With enough practice it’s the fastest interface to use for most of your Operating System needs. Technically you can figure out large parts of the functionality on your own once you know the basics. But that’s partly because most programs have a built-in manual on hand. It’s tough to use CLI without [RTFM](https://en.wikipedia.org/wiki/RTFM).
+* Input method - You interact with this type of interface almost exclusively with the keyboard. You can use the mouse but make no mistake - that’s definitely the secondary input device with a CLI.
+* Response - The interface responds with text. Luckily the text can have some colour to it and nowadays emojis are also usable 🥳
 - - - -
 ![](How%20do%20apps%20talk%20to%20each%20other?/Screenshot%202020-08-06%20at%2019.50.34.png)
 
@@ -102,6 +106,14 @@ The exchange in the example above shows a “Seattle” query to Google Search. 
 Luckily with popular APIs you don’t have to guess. The example above is based on instructions from [Google’s developer docs](https://developers.google.com/custom-search/v1/using_rest#making_a_request). The documentation specifies what you can expect. “Click here to get the API key”, “send us your key and the search query term and we’ll send you the query result in JSON format”.
 
 API is a precise way of communicating. Once you figure out how a particular API endpoint works, you can rely on it to give you a predictable response. And if you get lost you can always read the docs or rely on trial and error.
+
+- - - -
+Some common characteristics of APIs are:
+* Main design goal - to make it possible for various different apps to talk to each other.
+* Learning curve - in many ways they are like CLIs that never get past the “it gets easier now” point. There are some commonalities between APIs that you can learn to recognise and use. But every API is different enough that you can’t skip reading its manual.
+* Input method - text in the format accepted by the API. Details depend on the type of API. But regardless if it’s REST or GraphQL, JSON or XML, you send a message in some type of text format. You can figure out what to send by reading the documentation and monitoring responses to the test messages you send.
+* Response - text in a format very similar to the input message.
+- - - -
 
 ### In conclusion
 
