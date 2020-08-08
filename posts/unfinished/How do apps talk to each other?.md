@@ -13,43 +13,37 @@ How often do you think about alternate methods of using your favourite phone app
 
 What are those? Well, do I have a treat for you today!
 
-### The human-friendly ways
+### The human-friendly ways - visual interfaces
 
 You’ve seen visual User Interfaces hundreds of times. One of the simplest example of an UIs is the front page of Google Search.
 
 ![](How%20do%20apps%20talk%20to%20each%20other?/google_ui.png)
 
-Just type what you want to find, press “Enter” or click one of two buttons.
-
-<THIS IS THE PROGRESS OF THE CURRENT **EDITING PASS**>
+Just type what you want to find, press “Enter” or click one of two buttons. Limiting or hiding options is the name of the game here.
 
 - - - -
 Some common characteristics of web UIs are:
-* Main design goal - They strive for simplicity - they are designed to be as easy to learn as possible so you could figure out how to use them on your own
-* Learning curve - UIs usually start off easy and intuitive. The more features they have the more documentation/tutorials they require.
+* Main design goal - Simplicity - they are designed to be intuitive so that anyone could figure out how to use them on their own
 * Input method - You interact with this type of interface primarily with touch screens, mouse and keyboard. Usually in that order of importance.
 * Response - The interface responds visually - it redirects you, draws something, flashes or throws a spinner on the screen to ease wait time
+* Learning curve - they’re usually easy at the start. The more features they have the more documentation/tutorials they require.
 - - - -
 
-The same broad list would apply to all types of GUIs - graphical user interfaces. That would be nerd-speak for your Windows, Mac or Linux applications, as well as phone and tablet apps.
-
--Your interactions with them come down mostly to clicking, swiping or using the keyboard to type a bit, drag-and-drop elements around and to push buttons on the screen.-
-
-Let’s just say the more useful a program tries to be, the more complex the UI gets. Finding a set of daunting examples is, as always, just one Google Search away. I found [this Reddit thread](https://www.reddit.com/r/computers/comments/71pcgm/post_software_with_the_most_complicated_ui/), but that’s only the tip of the iceberg. You might have come across something like the Blender image below.
-
-[Blender UI](https://i.redd.it/u9nha9xbudnz.jpg) <change to img tag>
-
-Those interfaces are not pretty, but  they get the job done. The more features they brag about, the longer you have to spend on tutorials to know your way around the application.
-
-But fear not! Interfaces can have an even more simplistic look and at the same time be even harder to use for the uninitiated.  I’m talking, of course, about CLI.
-
-Command Line Interface. Anyone who tried to learn programming probably came across this beast at some point. I’m fairly sure it made a bad first impression.
+The same broad list would apply to all types of GUIs - graphical user interfaces. That would be nerd-speak for your Windows, Mac or Linux applications, as well as phone and tablet apps. Here’s an example:
 
 ![](How%20do%20apps%20talk%20to%20each%20other?/Screenshot%202020-06-29%20at%2017.34.21.png)
 
-This example is the folder view in Finder. I’m sure you know what it would look like on Windows. The same thing looks like this in the command line:
+ You might not be familiar with it if you’re used to Windows. But it’s similar enough, isn’t it? I’m tempted to talk at length about the other side of the learning curve - the daunting and difficult to understand apps bursting with features. For now, if you’re interested take a look at [this Reddit thread](https://www.reddit.com/r/computers/comments/71pcgm/post_software_with_the_most_complicated_ui/) and check out the Blender UI:
+
+[Blender UI](https://i.redd.it/u9nha9xbudnz.jpg) <change to img tag>
+
+### The text-based world
+
+Command Line Interface. Anyone who tried to learn programming probably came across this beast at some point. I’m fairly sure it made a bad first impression.
 
 ![](How%20do%20apps%20talk%20to%20each%20other?/Screenshot%202020-06-29%20at%2017.30.02.png)
+
+This image shows the view of the exact same folder as the Finder GUI image we’ve just looked at.  It’s a bit less obvious and you have to know that in order to see the list of files inside the “Music” folder, you have to type `ls Music`. It’s not written anywhere, you just have to know. Oh, and it won’t work in the old Windows command line terminal. To get similar output there you need to type `dir Music`. How are you supposed to know that? You have to learn it by talking to someone or reading about it!
 
 - - - -
 Some common characteristics of CLIs are:
@@ -58,7 +52,23 @@ Some common characteristics of CLIs are:
 * Input method - You interact with this type of interface almost exclusively with the keyboard. You can use the mouse but make no mistake - that’s definitely the secondary input device with a CLI.
 * Response - The interface responds with text. Luckily the text can have some colour to it and nowadays emojis are also usable 🥳
 - - - -
+
 ![](How%20do%20apps%20talk%20to%20each%20other?/Screenshot%202020-08-06%20at%2019.50.34.png)
+
+<THIS IS THE PROGRESS OF THE CURRENT **EDITING PASS**>
+
+
+
+-Your interactions with them come down mostly to clicking, swiping or using the keyboard to type a bit, drag-and-drop elements around and to push buttons on the screen.-
+
+-Let’s just say the more useful a program tries to be, the more complex the UI gets. Finding a set of daunting examples is, as always, just one Google Search away. I found, but that’s only the tip of the iceberg. You might have come across something like the Blender image below.-
+
+-Those interfaces are not pretty, but  they get the job done. The more features they brag about, the longer you have to spend on tutorials to know your way around the application.-
+
+-But fear not! Interfaces can have an even more simplistic look and at the same time be even harder to use for the uninitiated.  I’m talking, of course, about CLI.-
+
+
+-This example is the folder view in Finder. I’m sure you know what it would look like on Windows. The same thing looks like this in the command line:-
 
 The simplicity of the Command Line Interface comes from the input method - the keyboard. You can be sure that any type of interaction from the user in that wretched system will be text-based. The only way to interact with it is to just type out commands you want to run. It’s simple if you know the command you want to run. It’s UX hell if you don’t know them.
 
