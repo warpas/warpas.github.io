@@ -1,15 +1,20 @@
 # What is your favourite way to use apps?
-- [ ] Slabo zdefiniowany czytelnik docelowy - przekaz nie zdaje się być dopasowany do jednego typu czytelnika. Niepotrzebne rozwadnianie przekazu zdaniami o tym, co czytelnik wie albo o czym ten artykul nie jest.
 - [x] rozdzielić na 3 artykuły
 	- [x] Human API (większość już wydzielona, ale komentarz o “powerful model for human communication” nie jest tu potrzebny
 	- [x] Historia rozwoju UI
 - [x] Zmiana tytułu - ten nie mówi “how to **MAKE** apps talk”. Bardzie “how they do it”
-- [ ] Wywalić komentarze typu “I’m not going to get into it”. Just don’t get into it
-- [ ] Dodać na końcu coś o “It also gives a powerful model for human communication. “?
+- [x] Editing pass pisania pod konkretnego czytelnika
+	- [x] Slabo zdefiniowany czytelnik docelowy - przekaz nie zdaje się być dopasowany do jednego typu czytelnika.
+	- [x] Niepotrzebne rozwadnianie przekazu zdaniami o tym, co czytelnik wie albo o czym ten artykul nie jest.
+- [ ] Editing pass odsysania tłuszczu z posta
+	- [ ] Wywalić komentarze typu “I’m not going to get into it”. Just don’t get into it
+	- [ ] Skrócić część o CLI
+	- [ ] Usunąć powtórzenia
+- [x] Dodać na końcu coś o “It also gives a powerful model for human communication. “? Nie.
 
 #coding #computing101 #post/in_progress #humanapi
 
-Is your answer different from “the normal way”? How often do you think about alternate methods of using your favourite phone app? There are many ways to interact with computer systems.  I’d like to expose you to a few methods, that most non-programmers don’t usually think about. Hopefully they’ll shift your perspective of what you can do with your computers, large and small.
+Is your answer different from “duh, the normal way”? How often do you think about alternate methods of using your favourite phone app? There are many ways to interact with computer systems.  I’d like to expose you to a few methods, that most non-programmers don’t usually think about. Hopefully they’ll shift your perspective of what you can do with your computers, large and small.
 
 The last step of this journey will take us to APIs. What are those? Well, do I have a treat for you today!
 
@@ -17,7 +22,7 @@ The last step of this journey will take us to APIs. What are those? Well, do I h
 
 You’ve seen visual User Interfaces hundreds of times. One of the simplest example of an UIs is the front page of Google Search.
 
-![](What%E2%80%99s%20your%20favourite%20way%20to%20use%20apps?/google_ui.png)
+![](What%20is%20your%20favourite%20way%20to%20use%20apps?/google_ui.png)
 
 Just type what you want to find, press “Enter” or click one of two buttons. Limiting or hiding options is the name of the game here.
 
@@ -31,7 +36,7 @@ Some common characteristics of web UIs are:
 
 The same broad list would apply to the vast majority of GUIs - graphical user interfaces. That would be nerd-speak for your Windows, Mac or Linux applications, as well as phone and tablet apps. Here’s an example:
 
-![](What%E2%80%99s%20your%20favourite%20way%20to%20use%20apps?/Screenshot%202020-06-29%20at%2017.34.21.png)
+![](What%20is%20your%20favourite%20way%20to%20use%20apps?/Screenshot%202020-06-29%20at%2017.34.21.png)
 
  You might not be familiar with it if you’re used to Windows. But it’s similar enough, isn’t it? I’m tempted to talk at length about the other side of the learning curve - the daunting and difficult to understand apps bursting with features. For now, if you’re interested take a look at [this Reddit thread](https://www.reddit.com/r/computers/comments/71pcgm/post_software_with_the_most_complicated_ui/) and check out the Blender UI:
 
@@ -39,7 +44,7 @@ The same broad list would apply to the vast majority of GUIs - graphical user in
 
 ### The text-based world ⌨️
 
-![](What%E2%80%99s%20your%20favourite%20way%20to%20use%20apps?/Screenshot%202020-06-29%20at%2017.30.02.png)
+![](What%20is%20your%20favourite%20way%20to%20use%20apps?/Screenshot%202020-06-29%20at%2017.30.02.png)
 
 Command Line Interface. Anyone who tried to learn programming probably came across this beast at some point. I’m fairly sure it made a bad first impression.
 
@@ -54,13 +59,13 @@ Some common characteristics of CLIs are:
 - - - -
 The simplicity of the Command Line Interface comes from the input method - the keyboard. You can be sure that any type of interaction from the user in that wretched system will be text-based. The only way to interact with it is to just type out commands you want to run. It’s simple if you know the command you want to run. It’s UX hell if you don’t know them.
 
-![](What%E2%80%99s%20your%20favourite%20way%20to%20use%20apps?/Screenshot%202020-08-06%20at%2019.50.34.png)
+![](What%20is%20your%20favourite%20way%20to%20use%20apps?/Screenshot%202020-08-06%20at%2019.50.34.png)
 
 The emoji in the example above does little to alleviate the pain of learning the ropes with the Command Line. The argument that “it gets better later” is hardly convincing in this day and age. As on British games critic once said about something, that gets good 20 hours in - “You know that’s not really a point in its favour, right? Put your hand on a stove for 20 hours and yeah, you’ll probably stop feeling the pain, but you’ll have done serious damage to yourself.”
 
 However it shows a very important point - computers translate your clicks, swipes and button presses to some sort of text, that gets further translated to machine language - ones and zeroes. Whether you type commands using a CLI or click around your windows the results are the same. A command for renaming a file - `mv tumbleweed.gif tumble.gif` - does essentially the same thing as clicking Rename and using `tumble.gif` as the new file name.
 
-The vast majority of everything you use your computer for with visual interfaces can be done with the command line interface. Let that sink in. 
+The vast majority of everything you use your computer for with visual interfaces can be done with the command line interface. Let that sink in.
 
 CLI used to be the default way to interact with the computer before Windows existed.  It has a higher bar to entry than the UIs of today. Using command line programs required you to at least glance at the documentation. I’m far from teaching you how to use a CLI. The key takeaway here is for you to know something like that exists under the proverbial hood.
 
@@ -72,46 +77,28 @@ We’ve arrived at the API or Application Programming Interface, which suggests 
 * “Hey Google Calendar, give me a list of events scheduled for next Monday in my calendar”.
 * “Hey Twitter, I want you to post this message through my user account.”
 * “Hey Trello, I want you to create a card in my project and put it in the ‘In Progress’ column.”
-* “Hey Toggl, start a timer tagged work”. 
-* “Hey Google Calendar, create a calendar event at 9:30 on Thursday”. 
+* “Hey Toggl, start a timer tagged work”.
+* “Hey Google Calendar, create a calendar event at 9:30 on Thursday”.
 
-You don’t need a college degree in Computer Science to understand what the responses are going to boil down to. Sure, the language they are encoded in will be a bit quirky but nobody expected you to recite Shakespeare’s Hamlet during your first English lesson, right? 
+You don’t need a college degree in Computer Science to understand what the responses are going to boil down to. Sure, the language they are encoded in will be a bit quirky but nobody expected you to recite Shakespeare’s Hamlet in its entirety during your first English lesson, right?
 
 - - - -
 Some common characteristics of APIs are:
-* Main design goal - to make it possible for various different apps to talk to each other. 
-* Learning curve - in many ways they are like CLIs that never get past the “it gets easier now” point. There are some commonalities between APIs that you can learn to recognise and use. But every API is different enough that you can’t skip reading its manual. 
+* Main design goal - to make it possible for various different apps to talk to each other.
+* Learning curve - in many ways they are like CLIs that never get past the “it gets easier now” point. There are some commonalities between APIs that you can learn to recognise and use. But every API is different enough that you can’t skip reading its manual.
 * Input method - text in the format accepted by the API. Details depend on the type of API. But regardless if it’s REST or GraphQL, JSON or XML, you send a message in some type of text format. You can figure out what to send by reading the documentation and monitoring responses to the test messages you send.
 * Response - text in a format similar to the input message.
 - - - -
 
-<THIS IS THE PROGRESS OF THE CURRENT **EDITING PASS**>
+We started off with the screenshot of Google Search UI. Let’s take a look at a small example of an API interaction with that service!
 
-
-- - - -
--But before you close this tab because “you’re not a programmer”, please answer the following question…-
-
--Do you use apps? - too obvious bait-
--Do you understand the following JSON example? - maybe, but I’m not convinced-
--Do you… what?-
--Are programmers people or machines?-
--They’re not smarter or better than you. They just happen to spend their 9-5 working a different occupation than you.- 
-
--Maybe ditch the question altogether-
-- - - -
-
-This is the “What” of APIs. Now the “How”.
-
-
-You could understand it as sending messages to the application directly. Communicating with an application through an API is a bit different to the UI. It’s more precise but more difficult to read for humans. Take a look!
-
-![](What%E2%80%99s%20your%20favourite%20way%20to%20use%20apps?/google_api.png)
-
-Those messages aren’t pretty. To the untrained eye it’s far from understandable English sentences and closer to math equations or even random strings of characters with some English words thrown in for giggles. At least at the first glance. But I bet you could understand parts of it. What do you think it does? What service does it access? What did the service respond with? What can you deduce from the URL in the green box? Please take 10-15 seconds to think about it.
+![](What%20is%20your%20favourite%20way%20to%20use%20apps?/google_api.png)
 
 There are two messages here:
 * The request I sent - in the green box
 * The response from the API - in the blue
+
+Those messages aren’t pretty. To the untrained eye it’s far from understandable English sentences and closer to math equations or even random strings of characters with some English words thrown in for giggles. At least at the first glance. But I bet you could understand parts of it. What do you think it does? What service does it access? What did the service respond with? What can you deduce from the URL in the green box? Please take 10-15 seconds to think about it.
 
 The exchange in the example above shows a “Seattle” query to Google Search. The response you get depends on the request you send. Without any prior knowledge it’s difficult to guess what request you should send to get the desired response.
 
@@ -119,11 +106,16 @@ Luckily with popular APIs you don’t have to guess. The example above is based 
 
 API is a precise way of communicating. Once you figure out how a particular API endpoint works, you can rely on it to give you a predictable response. And if you get lost you can always read the docs or rely on trial and error.
 
-
 ### In conclusion
 
-You don’t need to be a programmer to take advantage of APIs. There are plenty of programmers who have already written scripts for most of the use cases that interest you. And you can use a lot of existing APIs on you phone with the Shortcuts app (iOS) or Action Blocks (Android). But using APIs by non-programmers is a topic for another time.
+You’ve seen a few types of interfaces by now. They were sorted from the most intuitive visual UIs to the least intuitive APIs. The text based UIs seem to have a steeper barrier to entry and require reading documentation for basic usage. Technical manuals rarely are an invigorating read. When you want to tell your application to do something you can use either one of these interfaces.
 
-There is a different, much more important reason why I took so long talking about APIs today. The model of communication the APIs use (doesn’t matter if it’s REST or GraphQL) is an accurate metaphorical way of thinking about communication between people. It’s a fascinating topic and I can’t wait to talk about it in detail next time! Thank you for reading! ❤️
+You can tell Google Calendar to add an event on Friday at 11:00 AM in many ways:
+* Click around in the browser on a laptop or desktop computer
+* Touch and swipe in the mobile app on a phone or tablet
+* Use one the many Command Line interfaces
+* Have Apple Calendar copy it through an API integration
+
+The end result is still the same - there will be an event on Friday at 11:00 AM in your Google Calendar. If there’s one key takeaway I have for you here, it’s this - all of these interfaces are but different languages you can use to talk to computer systems. And there’s more than one of these languages. Thank you for reading! ❤️
 
 _No, I’m not shooting for a_ [Wait But Why](https://waitbutwhy.com/) _post length anytime soon._
