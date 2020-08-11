@@ -7,6 +7,7 @@
 	- [x] Slabo zdefiniowany czytelnik docelowy - przekaz nie zdaje się być dopasowany do jednego typu czytelnika.
 	- [x] Niepotrzebne rozwadnianie przekazu zdaniami o tym, co czytelnik wie albo o czym ten artykul nie jest.
 - [ ] Editing pass odsysania tłuszczu z posta
+	- [x] Dodać wiadomość z podsumowania na początku, żeby było wiadomo o co chodzi w artykule
 	- [ ] Wywalić komentarze typu “I’m not going to get into it”. Just don’t get into it
 	- [ ] Skrócić część o CLI
 	- [ ] Usunąć powtórzenia
@@ -14,10 +15,21 @@
 
 #coding #computing101 #post/in_progress #humanapi
 
-Is your answer different from “duh, the normal way”? How often do you think about alternate methods of using your favourite phone app? There are many ways to interact with computer systems.  I’d like to expose you to a few methods, that most non-programmers don’t usually think about. Hopefully they’ll shift your perspective of what you can do with your computers, large and small.
+<Context>
+Is your answer different from “duh, the normal way”?
 
-The last step of this journey will take us to APIs. What are those? Well, do I have a treat for you today!
+<Conflict (most important)>
+Most people who never studied programming don’t even know there are other ways. How often do you think about alternate methods of using your favourite phone app?
 
+<Credibility>
+Would you be open to get a fresh perspective on your daily electronics from a long time programmer?
+
+<Thesis>
+Imagine you only communicated with other people by grunting and pointing your fingers. It’s far from enough for having a meaningful exchange of ideas or feelings. But it’s perfect for warning someone about a nearby threat and it’d probably be enough to get you food and shelter. It’s a good analogy for using computer systems. There is more than one way to do it. I’d like to expose you to a few methods, that most non-programmers don’t usually think about. And no, they don’t involve learning a programming language.
+
+Hopefully they’ll shift your perspective of what you can do with your computers, large and small. Let’s get started!
+
+<Talking Points>
 ### The ones you’re used to - visual interfaces 😎
 
 You’ve seen visual User Interfaces hundreds of times. One of the simplest example of an UIs is the front page of Google Search.
@@ -116,6 +128,16 @@ You can tell Google Calendar to add an event on Friday at 11:00 AM in many ways:
 * Use one the many Command Line interfaces
 * Have Apple Calendar copy it through an API integration
 
-The end result is still the same - there will be an event on Friday at 11:00 AM in your Google Calendar. If there’s one key takeaway I have for you here, it’s this - all of these interfaces are but different languages you can use to talk to computer systems. And there’s more than one of these languages. Thank you for reading! ❤️
+The end result is still the same - there will be an event on Friday at 11:00 AM in your Google Calendar. If there’s one key takeaway I have for you here, it’s this - there is more than one way to interact with computer systems.
+
+All of these interfaces are akin to different languages you can use to talk to computer systems.
+
+These methods are much like different ways to communicate with people. Imagine if you only
+
+there is more than one way to interact with computer systems. All of these interfaces are akin to different languages you can use to talk to computer systems.
+
+<Call to Action>
+
+Thank you for reading! ❤️
 
 _No, I’m not shooting for a_ [Wait But Why](https://waitbutwhy.com/) _post length anytime soon._
