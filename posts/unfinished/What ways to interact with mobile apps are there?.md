@@ -13,7 +13,7 @@
 	- [x] Usunąć powtórzenia
 	- [x] Zmienić odniesienia do języka w części o API. Zastąpić odniesieniami do formy komunikacji
 - [ ] Editing pass “czy dobrze się to czyta”
-	- [ ] Nie jestem jeszcze zadowolony ze wstępu
+	- [x] Nie jestem jeszcze zadowolony ze wstępu
 	- [ ] Nie jestem jeszcze zadowolony z sekcji CLI
 	- [ ] Nie wiem czy jestem zadowolony z sekcji o API
 	- [x] Jestem zadowolony z zakończenia
@@ -22,11 +22,12 @@
 
 #coding #computing101 #post/in_progress #humanapi
 
-What is your favourite way to use the Google Calendar app? How about other apps? Is your answer “the normal way - on my phone or laptop”? 
+What is your favourite way to use the Google Calendar app? How about other apps? Is your answer “duh, the normal way - on my phone or laptop”?
 
-Many people who never studied programming **don’t know there are other ways**. **And no, they** don’t require learning a programming language. How often do you think about alternate methods of using your favourite phone app?
+If you never learned programming, chances are high, that you rarely ever thought about this issue. I know only a few examples of non-programmers who use CLIs or APIs . How often do you think about alternate methods of using your favourite phone app?
+-Many people who never studied programming **don’t know there are other ways**. **And no, they** don’t require learning a programming language.-
 
-Imagine you only communicated with other people only by grunting and pointing your fingers. It’s far from enough for having a meaningful exchange of ideas or feelings. But it’s perfect for warning someone about a nearby threat and it’d probably be sufficient to get you food and shelter. It’s a good analogy for using computer systems. There is more than one way to do it. I’d like to expose you to a few methods, that you probably don’t think about that often. Hopefully they’ll shift your perspective of what you can do with your computers, large and small. Let’s get started!
+Imagine you only communicated with other people only by grunting and pointing your fingers. It’s far from enough for having a meaningful exchange of ideas or feelings. But it’s perfect for warning someone about a nearby threat and it’d probably be sufficient to get you food and shelter. It’s a good analogy for using computer systems. There is more than one way to do it. I’d like to expose you to a few methods, that may seem unfamiliar. Hopefully they’ll shift your perspective of what you can do with your computers, robots and favourite apps. Let’s get started!
 
 ### The ones you’re used to - visual interfaces 😎
 
@@ -75,7 +76,7 @@ The emoji in the example above do little to alleviate the pain of learning the r
 
 However it shows a very important point - computers translate your clicks, swipes and button presses to some sort of text, that gets further translated to machine language - ones and zeroes. Whether you type commands using a CLI or click around your windows the results are the same. A command for renaming a file - `mv tumbleweed.gif tumble.gif` - does essentially the same thing as clicking Rename and using `tumble.gif` as the new file name.
 
-The vast majority of everything you use your computer for with visual interfaces can be done with the command line interface. Let that sink in. 
+The vast majority of everything you use your computer for with visual interfaces can be done with the command line interface. Let that sink in.
 
 CLI used to be the default way to interact with the computer before Windows existed.  -It has a higher bar to entry than the UIs of today. Using command line programs required you to at least glance at the documentation. I’m far from teaching you how to use a CLI.- The key takeaway here is for you to know something like that is still there under the proverbial hood.
 
@@ -87,10 +88,10 @@ We’ve arrived at the API or Application Programming Interface, which suggests 
 * “Hey Google Calendar, give me a list of events scheduled for next Monday in my calendar”.
 * “Hey Twitter, I please post this message through my user account.”
 * “Hey Trello, I would like for you to create a card in my project and put it in the ‘In Progress’ column.”
-* “Hey Toggl, start a timer tagged ‘_work_’, would you?”. 
-* “Hey Google Calendar, create a calendar event at 9:30 on Thursday”. 
+* “Hey Toggl, start a timer tagged ‘_work_’, would you?”.
+* “Hey Google Calendar, create a calendar event at 9:30 on Thursday”.
 
-You don’t need a college degree in Computer Science to understand what the responses are going to mean. Sure, the language they are encoded in will be a bit quirky but nobody expected you to read and understand Shakespeare’s Hamlet in its entirety during your first English lesson, right? 
+You don’t need a college degree in Computer Science to understand what the responses are going to mean. Sure, the language they are encoded in will be a bit quirky but nobody expected you to read and understand Shakespeare’s Hamlet in its entirety during your first English lesson, right?
 
 Let’s take a look at a small example of an API interaction with an existing online service 🙃
 
@@ -104,21 +105,21 @@ Those messages aren’t pretty. To the untrained eye it’s far from understanda
 
 Hover over the following box to see the answer. Spoiler tag. **The exchange in the example above shows a “Seattle” query to Google Search**. The response you get depends on the request you send. Without any prior knowledge it’s difficult to guess what request you should send to get the desired response.
 
-Luckily with popular APIs you don’t have to guess. The example above is based on instructions from [Google’s developer docs](https://developers.google.com/custom-search/v1/using_rest#making_a_request). The documentation specifies steps for interacting with it. “Click here to get the API key”, “send us your key and the search query term and we’ll send you the query result in the JSON format”. 
+Luckily with popular APIs you don’t have to guess. The example above is based on instructions from [Google’s developer docs](https://developers.google.com/custom-search/v1/using_rest#making_a_request). The documentation specifies steps for interacting with it. “Click here to get the API key”, “send us your key and the search query term and we’ll send you the query result in the JSON format”.
 
 - - - -
 Some common characteristics of APIs are:
-* Main design goal - to make it possible for various different apps to talk to each other. 
+* Main design goal - to make it possible for various different apps to talk to each other.
 * Input method - text in the format accepted by the API. Details depend on the type of API. But regardless if it’s REST or GraphQL, JSON, XML or another buzzword, you send a message in some type of text format. You can figure out what to send by reading the documentation and monitoring responses to the test messages you send.
 * Response - text in a format similar to the input message.
-* Learning curve - they’re a bit more difficult than CLIs in this respect. There are some commonalities between APIs that you can learn to recognise and use. But every API is different enough that you usually shouldn’t skip reading its manual. 
+* Learning curve - they’re a bit more difficult than CLIs in this respect. There are some commonalities between APIs that you can learn to recognise and use. But every API is different enough that you usually shouldn’t skip reading its manual.
 - - - -
 
 API is a precise way of communicating. Once you figure out how a particular API endpoint works, you can rely on it to give you a predictable response.
 
 ### In conclusion
 
-You’ve seen a few types of interfaces by now. They were sorted from the most intuitive visual UIs to the least intuitive APIs. The text based UIs seem to have a steeper barrier to entry and require reading documentation for basic usage. Technical manuals rarely are an invigorating read. 
+You’ve seen a few types of interfaces by now. They were sorted from the most intuitive visual UIs to the least intuitive APIs. The text based UIs seem to have a steeper barrier to entry and require reading documentation for basic usage. Technical manuals rarely are an invigorating read.
 
 When you want to tell your application to do something you can use either one of these interfaces. You can tell Google Calendar to add an event on Friday at 11:00 AM in many ways:
 * Click around in the browser on a laptop or desktop computer
