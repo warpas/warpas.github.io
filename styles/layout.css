@@ -31,21 +31,21 @@ header nav a:hover {
   font-family: medium-content-serif-font, Georgia, Cambria, "Times New Roman", Times, serif;
 }
 
-.container ul {
+.container ul.post_list {
   list-style-type: none;
   padding: 0;
 }
 
-.container ul li {
+.container ul.post_list li {
   margin: 25px 0;
 }
 
-.container ul li a {
+.container ul.post_list li a {
   text-decoration: none;
   color: rgba(41, 41, 41, 1);
 }
 
-.container ul li a:hover {
+.container ul.post_list li a:hover {
   color: #2e57c2;
   fill: #2e57c2;
 }
@@ -58,7 +58,9 @@ header nav a:hover {
 }
 
 .container ul.contact_list {
+  list-style-type: none;
   margin: 0;
+  padding: 0;
 }
 
 .container ul.contact_list li {

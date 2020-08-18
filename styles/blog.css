@@ -24,10 +24,36 @@
 .image {
   display: flex;
   align-self: center;
-  margin: 0 auto;
+  margin: 10px auto;
   width: 700px;
   border: 1px ridge;
   box-shadow: 2px 4px rgba(0, 0, 0, 0.096);
+}
+
+.container .code-inline {
+  display:inline;
+  border:solid 1px #dedede;
+  padding:0.1em 0.3em;
+}
+
+.container .summary_box {
+  border: 1px solid #1ff;
+  background: #dff;
+  margin: 1em;
+  padding: 2em;
+}
+
+.container .summary_box li {
+  margin: 0.5em 0;
+}
+
+.container .spoiler {
+  color: black;
+  background-color:black;
+}
+
+.container .spoiler:hover {
+  background-color:white;
 }
 
 nav {
