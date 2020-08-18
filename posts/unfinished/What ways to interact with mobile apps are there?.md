@@ -1,28 +1,8 @@
 # What ways to interact with mobile apps are there?
-- [x] rozdzielić na 3 artykuły
-	- [x] Human API (większość już wydzielona, ale komentarz o “powerful model for human communication” nie jest tu potrzebny
-	- [x] Historia rozwoju UI
-- [x] Zmiana tytułu - ten nie mówi “how to **MAKE** apps talk”. Bardzie “how they do it”
-- [x] Editing pass pisania pod konkretnego czytelnika
-	- [x] Slabo zdefiniowany czytelnik docelowy - przekaz nie zdaje się być dopasowany do jednego typu czytelnika.
-	- [x] Niepotrzebne rozwadnianie przekazu zdaniami o tym, co czytelnik wie albo o czym ten artykul nie jest.
-- [x] Editing pass odsysania tłuszczu z posta
-	- [x] Dodać wiadomość z podsumowania na początku, żeby było wiadomo o co chodzi w artykule
-	- [x] Wywalić komentarze typu “I’m not going to get into it”. Just don’t get into it
-	- [x] Skrócić część o CLI
-	- [x] Usunąć powtórzenia
-	- [x] Zmienić odniesienia do języka w części o API. Zastąpić odniesieniami do formy komunikacji
-- [x] Editing pass “czy dobrze się to czyta”
-	- [x] Nie jestem jeszcze zadowolony ze wstępu
-	- [x] Nie jestem jeszcze zadowolony z sekcji GUI
-	- [x] Nie jestem jeszcze zadowolony z sekcji CLI
-	- [x] Nie wiem czy jestem zadowolony z sekcji o API
-	- [x] Jestem zadowolony z zakończenia
-	- [x] Usunąć przekreślony tekst
-- [x] Dodać na końcu coś o “It also gives a powerful model for human communication. “? Nie.
 - [ ] Publikacja
+	- [ ] usunąć z grupy post/in_progress
 
-#coding #computing101 #post/in_progress #humanapi
+#coding #computing101 #post/in_progress #post/published #humanapi
 
 What is your favourite way to use the Google Calendar app? How about other apps? Is your answer “duh, the normal way - on my phone or laptop”?
 
@@ -134,5 +114,3 @@ Communicating with computers through various interfaces is, in many ways, like i
 I’d love to hear your thoughts on the matter. I’m working on a comment section for the blog. But while it’s unavailable, please send me an email at  [contact@warpas.blog](mailto:contact@warpas.blog) .
 
 Thank you for reading! ❤️
-
-_No, I’m not shooting for a_ [Wait But Why](https://waitbutwhy.com/) _post length anytime soon._
