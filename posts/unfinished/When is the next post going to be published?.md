@@ -43,7 +43,7 @@ Initially I was hoping to publish one post every week. I see the value in predic
 
 Both of these were attempts to solve the main potential problems I identified.  I’ll elaborate on them and how I think those points help solve them.
 
-### Effort vs results
+### Effort 💪 vs results 📚
 
 I understand “schedule” as “consistent results”. A post every week is a good goal to aim for in my opinion. I enjoy watching Yahtzee Croshaw’s work, and that guy keeps a weekly or bi-weekly schedule for his videos. He’s remarkably consistent about it too! His flagship game review series called “Zero Punctuation” has been running consistently for 13 years now. With very few breaks. I’m inspired by that, and I would definitely want to explore that kind of schedule in the future. But it collides heavily with my writing output. I can’t control the output at the start. But I can control my input - how much time I spend writing and the effort I put into it.
 
@@ -65,8 +65,23 @@ Potential problems/risks resulting from this solution:
 
 ### Quality
 
+I’ve decided to publish a post as soon as it’s ready. Answering what “ready” means is a bit more tricky.  Problems I hope to solve:
+* publishing low quality posts
+* keeping perfectionism at bay
+
+Editing takes more time than writing during the writing process. It’s also open-ended  - there is no natural upper limit to the time you could spend rereading and editing a post, other than the heat death of the universe or your own departure from this world. The door’s left ajar, letting perfectionism creep in.  There’s a well known quote in the writing world:
+
+“If I had more time I would have written a shorter letter” — Mark Twain*
+
+The post / book / movie / game can be really good right now, but it will definitely be better, if we spend 2 more years on it. It’s what I call the Duke Nukem Forever syndrome.
+
+In trying to avoid the abyss of endless refinement, setting a release date or a schedule. I already said why I won’t do that now. But that leaves this problem unsolved.
+
 - - - -
 <**The SOUP**>
+
+These are one more issue I want to be mindful of
+
 
 With a weekly or bi-weekly schedule there are two choices at that point.
 
@@ -82,12 +97,8 @@ I had misgivings about my own ability to write.
 If starting out
 - - - -
 
-Problems I hope to solve:
-* publishing low quality posts.
 
-“If I had more time I would have written a shorter letter” — Mark Twain
 
-I’ve decided to publish a post as soon as it’s ready. Answering what “ready” means is a bit more tricky.
 
 I'm aware perfectionist tendencies are running rampant among creatine types. Luckily I never considered myself to be creative. In web development here's a seemingly ubiquitous concept of cutting project scope to reach a Minimum Viable Product. How do you understand MVP blog post?
 
@@ -113,7 +124,7 @@ I’m still enamoured with the idea of a schedule to keep perfectionism at bay. 
 ### Promise
 
 Finally, I’d like to make a few promises I know I can keep:
-* I will write every day. There might be a single day missed every now and then, but it won’t happen 2 days in a row.
+* I will write every day. There might be a single day missed every now and then, but it [won’t happen 2 days in a row](https://www.youtube.com/watch?v=bfLHTLQZ5nc).
 * Every post you’ll see appear on this blog will be thoroughly read many times to ensure it reads well and the quality will be as high as I can manage.
 * I will fix all typos and language errors I can find. If you find any that I missed, please feel free to tell me at [contact@warpas.blog](mailto:contact@warpas.blog) or in the comments (**when they’re available**).
 
