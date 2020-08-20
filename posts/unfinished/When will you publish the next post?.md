@@ -1,4 +1,4 @@
-# When is the next post going to be published?
+# When will you publish the next post?
 - [ ] Apply Structure
 - [ ] Write the basic post
 - [ ] Editing pass
@@ -75,30 +75,9 @@ Editing takes more time than writing during the writing process. It’s also ope
 
 The post / book / movie / game can be really good right now, but it will definitely be better, if we spend 2 more years on it. It’s what I call the Duke Nukem Forever syndrome.
 
-In trying to avoid the abyss of endless refinement, setting a release date or a schedule. I already said why I won’t do that now. But that leaves this problem unsolved.
+One solution, that could be helpful in trying to avoid the abyss of endless refinement, is setting a release date or a schedule. I already said why I won’t do that now. But that would leave this problem unsolved. A post could always be made better, but I want it to, at the very least, be clear and enjoyable to read. Once those two goal are achieved, I will publish it. What do these two goals mean?
 
-- - - -
-<**The SOUP**>
-
-These are one more issue I want to be mindful of
-
-
-With a weekly or bi-weekly schedule there are two choices at that point.
-
-
-Let me reiterate - I’m doing this in my spare time.  I don’t want to publish something I think is a waste of your time as a reader, just to keep a schedule. So there won’t be “new post every Tuesday” or any other arbitrary schedule. When I have written something I consider worth your while, then it’ll get published.
-
-
-When I stared the blog, I was hoping for a weekly posting schedule.
-
-
-I had misgivings about my own ability to write.
-
-If starting out
-- - - -
-
-
-
+I start a post off with a topic or a paragraph of thoughts that I consider interesting or worthwhile. After writing my first draft of what I wanted to say with that post, the first few editing passes are aiming to increase the clarity of the message. I want you to be able to easily tell what I’m saying, what’s the context and why I think it’s important. The second goal is for the post to feel good to read. I’ve got a style I enjoy, and I try to write something so that my 10-years younger self would make be excited to read it. I’m testing some of the paragraphs with others, who have different sensibilities, but the main goal is to write something I myself would enjoy reading. That’s because it makes it easier for my internal compass to help me navigate.
 
 I'm aware perfectionist tendencies are running rampant among creatine types. Luckily I never considered myself to be creative. In web development here's a seemingly ubiquitous concept of cutting project scope to reach a Minimum Viable Product. How do you understand MVP blog post?
 
@@ -106,7 +85,7 @@ My definition comes down to topic choice and pleasant readability. Topic choice 
 * The ones I feel passionate about
 * The ones I struggled with and managed to find a solution for
 
-Pleasant readability is even more subjective. I write the outline in the first sitting. At that point I have a relatively good idea if the topic is worthy of a full post. Writing itself comes down to consistency. That's already described in the previous section. My current process of quality control after the post is written consists of reading the post 2-3 times after writing it and doing an editing pass after these readings. Granted, it relies heavily on my feels. But it works for now and I'll improve it along the way.
+Pleasant readability is even more subjective. I write the outline in the first sitting. At that point I have a relatively good idea if the topic is worthy of a full post. Writing itself requires consistency. That's already described in the previous section. My current process of quality control after the post is written consists of reading the post 2-3 times after writing it and doing an editing pass after these readings. Granted, it relies heavily on my feels. But it works for now and I'll improve it along the way.
 
 Potential problems/risks resulting from this solution:
 * the lure of perfectionism
@@ -114,12 +93,15 @@ Potential problems/risks resulting from this solution:
 
 ### In conclusion
 
+My guiding principles are:
 1. Consistent effort, not consistent results
 2. Posts of high quality by my own definition
 
-Both of these points are the opposite ends of the same spectrum. But if you look at it from another perspective, they point towards the same goal, but serve different functions. The consistent effort is a stabiliser. I want some writing done every day in order to get comfortable with the blank page and the process of writing. I want to move every day in the direction of publishing the next post. Those daily steps don’t have to be huge. But they need to be consistent.
+Both of these points seem to be at the opposite ends of the same spectrum. But if you look at it from another perspective, they point towards the same goal, but serve different functions. The consistent effort is a stabiliser. I want some writing done every day in order to get comfortable with the blank page and the process of writing. I want to move every day in the direction of publishing the next post. Those daily steps don’t have to be huge. But they need to be consistent.
 
-I’m still enamoured with the idea of a schedule to keep perfectionism at bay. I will definitely explore that in the future. But first I want to have 6-12 months of daily writing experience under my belt. Focusing on consistent effort right now will be instrumental in helping me get it. I reserve the right to change my mind on the specifics, but the direction should be clear. I hope you enjoyed this dive into my thinking process on this. I hope it was helpful to you.
+I’m still enamoured with the idea of a schedule to keep perfectionism at bay. I definitely want to explore that in the future. But first I want to have 6-12 months of daily writing experience under my belt. Focusing on consistent effort right now will be instrumental in helping me get it. I reserve the right to change my mind on the specifics, but the direction should be clear.
+
+Let me reiterate - I’m doing this in my spare time.  I don’t want to publish something I think is a waste of your time as a reader, just to keep a schedule. So there won’t be “new post every Tuesday” or any other arbitrary schedule. When I have written something I consider worth your while, then it’ll get published. I hope you enjoyed this dive into my thinking process on this. I hope it was helpful to you.
 
 ### Promise
 
