@@ -1,12 +1,19 @@
 # When will you publish the next post?
 - [ ] Apply Structure
-- [ ] Write the basic post
+- [x] Write the basic post
 - [ ] Editing pass
 	- [ ] Read again
 	- [ ] Write out what to improve
 	- [ ] Move details from the introduction to the actual post
 	- [ ] Trim the fat
-- [ ] Change the date in the introduction (3 months from now)
+- [ ] Change the date in the introduction (“3 months go”)
+- [ ] Editing pass
+	- [ ] Satisfying introduction
+	- [ ] Add images to break up the monotony
+	- [ ] Satisfying conclusion
+- [ ] Editing pass
+	- [ ] Read the entire post again
+	- [ ] Write out what to improve
 
 #post/in_progress
 
@@ -24,37 +31,37 @@ Call to Action
 
 - - - -
 
-My posts don’t appear on a fixed schedule. There was close to a week between the first post and the second post. Then a bit over 2 weeks before the third post. Then the fourth post dropped 9 weeks after. What’s up with that?
+My posts don’t appear on a fixed schedule. There was close to a week between the first post and the second post. Then a bit over 2 weeks before the third post. Then the fourth post dropped 9 weeks after that. What’s up with that?
 
- I didn’t want to commit to a schedule initially. My writing was  inconsistent and I didn’t want to make a promise I couldn’t keep. I published the first post **3 months ago**. Now I’ve got some ideas about how long writing a post can take. This post is my attempt at answering the following questions - “How often are the new posts going to appear on this blog? When can I expect the next post? ”
+ I didn’t want to commit to a schedule initially. My writing was  inconsistent and I didn’t want to make a promise I couldn’t keep. I published the first post **3 months ago**. Now I’ve got some ideas about how long writing a post can take. Let’s take another look at the question from the title - “When will you publish the next post?“
 
 The short answer is - I’m writing every day, in my spare time and when I have written something I consider worth your while, then it’ll get published.
 
-If you’re interested in a longer answer, then I’d like to welcome you to explore with me the topic of writing and publishing posts 😇
+If you’re interested in a longer answer, then I’d like to welcome you to explore with me the topic of writing and publishing posts. 😇
 
 - - - -
 
 ### The original intent 🤩
 
-Initially I was hoping to publish one post every week. I see the value in predicable posting schedule. But I don’t want to post low quality work just because I promised “something’s coming every week”.  There’s clearly a conflict between consistent schedule and perfectionism. Out of that chaotic spectrum I decided there were two main criteria I wanted to focus on:
+I hoped to publish one post every week. I see the value in predicable posting schedule. But I don’t want to post low quality work just because I promised “something” each week.  There’s clearly a conflict between consistent schedule and perfectionism. Out of that chaotic spectrum I decided there were two main criteria I wanted to focus on:
 
 1. Consistent effort, not consistent results
 2. Posts of high quality by my own definition
 
-Both of these were attempts to solve the main potential problems I identified.  I’ll elaborate on them and how I think those points help solve them.
+Both of these were attempts to solve the main potential problems I identified.  Let’s dive in deeper.
 
 ### Effort 💪 vs results 📚
 
-I understand “schedule” as “consistent results”. A post every week is a good goal to aim for in my opinion. I enjoy watching Yahtzee Croshaw’s work, and that guy keeps a weekly or bi-weekly schedule for his videos. He’s remarkably consistent about it too! His flagship game review series called “Zero Punctuation” has been running consistently for 13 years now. With very few breaks. I’m inspired by that, and I would definitely want to explore that kind of schedule in the future. But it collides heavily with my writing output. I can’t control the output at the start. But I can control my input - how much time I spend writing and the effort I put into it.
+I understand “schedule” as “consistent results”. A post every week is a good goal to aim for in my opinion. I enjoy watching Yahtzee Croshaw’s work, and that guy keeps a weekly or bi-weekly schedule for his videos. He’s remarkably consistent about it too! His flagship game review series called “Zero Punctuation” has been running for 13 years now with very few breaks. I’m inspired by that, and I would definitely want to explore that kind of schedule in the future. But it collides heavily with my writing output. I’m not yet experienced enough to predict my the output at the start. But I can control my input - how much time I spend writing and the effort I put into it.
 
 On July 27th I’ve committed to writing every day. By focusing on that consistent effort I hope to solve the following problems:
 * my scarce experience in consistent writing
 * getting discouraged by the “blank page”
 * avoiding difficult topics
 
-The first two issues seem tightly coupled to me.  Writing more often will improve my writing, at least to a point.  I’m following the [pottery class parable](https://aliabdaal.com/pottery/) here, that you might be familiar with.
+The first two issues seem tightly coupled to me.  I’m following the [pottery class parable](https://aliabdaal.com/pottery/) here, that you might be familiar with. The goal is to publish good posts more frequently. Writing often will improve my writing, at least to a point.
 
-I found that starting writing is the most difficult obstacle for me to jump over. A piece of advice that helped me tremendously was to focus on “[2 crappy pages per day](https://tim.blog/2013/12/09/the-ugly-new-york-times-bestseller-the-creative-process-in-action/)”, courtesy of Tim Ferriss. I don't write as a full time profession, so I adjusted it a bit, but the principles are the same. My current version is to write "10 words per day”. It's enough for me to start. I write more if I want to and have the time. And that's usually the case.
+I found that starting writing is the most difficult obstacle for me to jump over. A piece of advice that helped me tremendously was to focus on “[2 crappy pages per day](https://tim.blog/2013/12/09/the-ugly-new-york-times-bestseller-the-creative-process-in-action/)”, courtesy of Tim Ferriss. Writing isn’t my full time occupation, so I adjusted it a bit, but the principles are the same. My current version is to write "10 words per day”. It's enough for me to start. I write more if I want to and have the time. And that's usually the case. But that low bar of entry is welcoming enough to help me jump over that initial hump. An example that steered me towards this solution was [IBM’s low sales quotas](https://www.youtube.com/watch?v=fwjZ99aNsa4) and the question “ are you aiming low enough?”.
 
 The last problem seems unrelated.  But I think focusing on consistent effort is instrumental in solving it.  Some topics are easy for me to think about. I can write and publish a full post on them in about 2 hours. Those were the first topics I’ve taken to write about on this blog. But not everything was this easy. Other posts take 15 hours and 6 editing passes spread across 3 months of writing, stewing, splitting, editing and rewriting. And if Tim Urban’s “[Wait but why](https://waitbutwhy.com/)” is any indication, [some topics require years of writing](https://waitbutwhy.com/2019/08/story-of-us.html). With my current level of writing ability and intuition I don’t know whether a topic I pick is easy or difficult. **I realise it when 2-3 hours into writing, instead of writing one complete post, I've actually scratched the surface of of 4 different topics.**. At that point there are two choices. Either take the time to research and explore the topic fully or focus on writing something short about a small part of it. With a weekly or bi-weekly schedule the longer exploration cannot be given a chance.
 
