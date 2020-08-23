@@ -1,11 +1,17 @@
 # When will you publish the next post?
-- [ ] Apply Structure
 - [x] Write the basic post
 - [ ] Editing pass
-	- [ ] Read again
-	- [ ] Write out what to improve
-	- [ ] Move details from the introduction to the actual post
+	- [x] Read again
+	- [x] Write out what to improve
+	- [x] Move details from the introduction to the actual post
 	- [ ] Trim the fat
+		- [ ] Get rid of the repetition in point 1 (consistency)
+		- [ ] Get rid of the repetition in point 2 (topic)
+		- [ ] Get rid of the repetition in point 3 (quality)
+		- [ ] Simplify the points.
+			- [ ] What did you want to say?
+			- [ ] How to say it with the fewest words to get the same point across?
+	- [ ]  Apply Structure
 - [ ] Change the date in the introduction (“3 months go”)
 - [ ] Editing pass
 	- [ ] Satisfying introduction
@@ -33,7 +39,7 @@ Call to Action
 
 My posts don’t appear on a fixed schedule. There was close to a week between the first post and the second post. Then a bit over 2 weeks before the third post. Then the fourth post dropped 9 weeks after that. What’s up with that?
 
- I didn’t want to commit to a schedule initially. My writing was  inconsistent and I didn’t want to make a promise I couldn’t keep. I published the first post **3 months ago**. Now I’ve got some ideas about how long writing a post can take. Let’s take another look at the question from the title - “When will you publish the next post?“
+ I didn’t want to commit to a schedule initially. My writing was  inconsistent and I didn’t want to make a promise I couldn’t keep. I published the first post over **3 months ago**. Over that time I got better at understanding my own process. Let’s take another look at the question from the title - “When will you publish the next post?“
 
 The short answer is - I’m writing every day, in my spare time and when I have written something I consider worth your while, then it’ll get published.
 
@@ -45,42 +51,40 @@ If you’re interested in a longer answer, then I’d like to welcome you to exp
 
 I hoped to publish one post every week. I see the value in predicable posting schedule. But I don’t want to post low quality work just because I promised “something” each week.  There’s clearly a conflict between consistent schedule and perfectionism.
 
-I'm aware perfectionist tendencies are running rampant among creatine types. Luckily I never considered myself to be creative. In web development here's a seemingly ubiquitous concept of cutting project scope to reach a Minimum Viable Product. How do you understand MVP blog post? My definition comes down to  topic choice and high quality of writing. I decided there were three main criteria I wanted to focus on:
+I'm aware perfectionist tendencies are running rampant among creatine types. Luckily I never considered myself to be creative. In web development there’s a seemingly ubiquitous concept of cutting project scope to reach a Minimum Viable Product. How do you understand MVP blog post? My definition comes down to  topic choice and high quality of writing. I decided there were three main areas I wanted to focus on:
 
 1. Consistent effort, not consistent results
-2. Topic choice
-3. Posts of high quality by my own definition
+2. Picking interesting topics instead of easy topics
+3. Posts of high quality without falling for perfectionism
 
-Each of these was an attempt to solve the main potential problems I identified.  Let’s dive in deeper.
+Each of these was an attempt to understand or solve the problems I identified over time.  Let’s dive in deeper.
 
 ### Effort 💪 vs results 📚
 
-A post every week is a good goal to aim for in my opinion. I understand “schedule” as “consistent results”. I enjoy watching Yahtzee Croshaw’s work, and that guy keeps a weekly or bi-weekly schedule for his videos. He’s remarkably consistent about it too! His flagship game review series called “Zero Punctuation” has been running for 13 years now with very few breaks. I’m inspired by that, and I would definitely want to explore that kind of schedule in the future. But it collides heavily with my current writing output. I’m not yet experienced enough to predict it at the start. But I can control my input - how much time I spend writing and the effort I put into it.
+A post every week is a good goal to aim for in my opinion. I enjoy watching Yahtzee Croshaw’s work, and that guy keeps a weekly or bi-weekly schedule for his videos. He’s remarkably consistent about it too! His flagship game review series called “Zero Punctuation” has been running for 13 years now with very few breaks. I’m inspired by that, and I would definitely want to explore that kind of schedule in the future. A schedule could be a useful tool for me to keep perfectionism
+
+Another way to look at a “schedule” is to see it as “consistent results”. And my current writing output is anything but consistent. But I can control my input - how much time I spend writing and the effort I put into it.
 
 On July 27th I’ve committed to writing every day. By focusing on that consistent effort I hope to solve the following problems:
 * my scarce experience in consistent writing
 * getting discouraged by the “blank page”
 
-The first two issues seem tightly coupled to me.  The [pottery class parable](https://aliabdaal.com/pottery/) resonates with me for these two tightly coupled issues. The goal is to publish good posts more frequently. Writing often will improve my abilities, at least to a point.
+These two issues seem tightly coupled to me.  The [pottery class parable](https://aliabdaal.com/pottery/) resonates with me. The goal is to put in the work more frequently. Writing often will improve my abilities, at least to a point.  Once I’ve spent a few months writing, I’ll have more tools in my tool belt to figure out publishing good quality posts more often.
 
-I found that starting writing is the most difficult obstacle for me to jump over. A piece of advice that helped me tremendously was to focus on “[2 crappy pages per day](https://tim.blog/2013/12/09/the-ugly-new-york-times-bestseller-the-creative-process-in-action/)”, courtesy of Tim Ferriss. Writing isn’t my full time occupation, so I adjusted it a bit, but the principles are the same. My current version is to write 10 words per day. It's easy enough to trick myself into starting. I usually end up putting much more time into it. An example that steered me towards this solution was [IBM’s low sales quotas](https://www.youtube.com/watch?v=fwjZ99aNsa4) and the question “are you aiming low enough?”.
+I found that starting writing is the most difficult obstacle for me to jump over. A piece of advice that helped me tremendously in this area was to focus on “[2 crappy pages per day](https://tim.blog/2013/12/09/the-ugly-new-york-times-bestseller-the-creative-process-in-action/)”, courtesy of Tim Ferriss. Writing isn’t my full time occupation, so I adjusted it a bit, but the principles are the same. My current version is to write 10 words per day. It's easy enough to trick myself into starting. I usually end up putting much more time into it. An example that steered me towards this solution was [IBM’s low sales quotas](https://www.youtube.com/watch?v=fwjZ99aNsa4) and the question “are you aiming low enough?”.
 
 Potential problems/risks resulting from this solution:
 * long times between posts
 
-### Topic choice
+### Interesting topics 🔎 vs easy topics 📰
 
-I hope to solve the following problem:
-* avoiding difficult topics
-
-Topic choice is fairly easy to me. I want topics I know enough about to be useful for you, the readers. I also want to feel strongly enough about a topic to push it past the finish line. It comes down to two types of topics:
+I would like to write about topics I know enough about to be useful for you, the readers. I also want to feel strongly enough about a topic to push it past the finish line. It comes down to two types of topics:
 * The ones I feel passionate about
 * The ones I struggled with and managed to find a solution for
 
-Pleasant readability is even more subjective. I write the outline in the first sitting. At that point I have a relatively good idea if the topic is worthy of a full post. Writing itself requires consistency. That's already described in the previous section. My current process of quality control after the post is written consists of reading the post 2-3 times after writing it and doing an editing pass after these readings. Granted, it relies heavily on my feels. But it works for now and I'll improve it along the way.
+Both of these types of topics are easy for me to write the first draft. Sometimes it ends up being too wordy, other times my thoughts are all over the place and I realise I stumbled into an intersection of 4-5 different topics. The latter situation is fascinating to me. It’s a clear direction that tells me “there’s something in that area worth exploring”. If I had a weekly or bi-weekly schedule exploring these types of topics wouldn’t be feasible to me. I wanted to embrace difficult topics, and that’s another part of the reason why there won’t be a posting schedule now.
 
-
-I think focusing on consistent effort is instrumental in solving it.  Some topics are easy for me to think about. I can write and publish a full post on them in about 2 hours. Those were the first topics I’ve taken to write about on this blog. But not everything was this easy. There are other posts take 15 hours and 6 editing passes spread across 3 months of writing, stewing, splitting, editing and rewriting. And if Tim Urban’s “[Wait but why](https://waitbutwhy.com/)” is any indication, [some topics require years of writing](https://waitbutwhy.com/2019/08/story-of-us.html). With my current level of skills and intuition I don’t know whether a topic I pick is easy or difficult. I realise the difficulty after sinking 3 hours into it. If at that point I only scratched the surface of what I wanted to write about, then that’s a clear enough signals that I stumbled into 4 different topics that only seemed easy at the start. There are at least three choices by then:
+I think focusing on consistent effort is instrumental in helping me steer towards interesting topics.  Some topics are easy for me to think about. I can write and publish a full post on them in about 2 hours. Those were the first topics I’ve taken to write about on this blog. But not everything was this easy. There are other posts take 15 hours and 6 editing passes spread across 3 months of writing, stewing, splitting, editing and rewriting. And if Tim Urban’s “[Wait but why](https://waitbutwhy.com/)” is any indication, [some topics require years of writing](https://waitbutwhy.com/2019/08/story-of-us.html). With my current level of skills and intuition I don’t know whether a topic I pick is easy or difficult. I realise the difficulty after sinking 3 hours into it. If at that point I only scratched the surface of what I wanted to write about, then that’s a clear enough signals that I stumbled into 4 different topics that only seemed easy at the start. There are at least three choices by then:
 * Take the time to research and explore the topic fully
 * Focus on writing something short about a small part of it
 * Drop the topic
@@ -91,9 +95,11 @@ Potential problems/risks resulting from this solution:
 * the lure of perfectionism
 * long times between posts
 
-### Quality
+### High quality 🎁 vs Perfectionism 💖
 
-I’ve decided to publish a post as soon as it’s ready. Answering what “ready” means is a bit more tricky.  Problems I hope to solve:
+I’ve decided to publish a post as soon as it’s ready. Answering what “ready” means is a bit more tricky. Pleasant readability is even more subjective. I write the outline in the first sitting. At that point I have a relatively good idea if the topic is worthy of a full post. Writing itself requires consistency. That's already described in the previous sections. My current process of quality control after the post is written consists of reading the post 2-3 times after writing it and doing an editing pass after these readings. Granted, it relies heavily on my feels. But it works for now and I'll improve it along the way.
+
+ Problems I hope to solve:
 * publishing low quality posts
 * keeping perfectionism at bay
 
@@ -107,25 +113,15 @@ One solution, that could be helpful in trying to avoid the abyss of endless refi
 
 I start a post off with a topic or a paragraph of thoughts that I consider interesting or worthwhile. After writing my first draft of what I wanted to say in the post, the first few editing passes are aiming to increase the clarity of the message. I want you to be able to easily tell what I’m saying, what’s the context and why I think it’s important. The second goal is for the post to feel good to read. I’ve got a style I enjoy, and I try to write something so that my 10-years younger self would be excited to read it. I’m testing some of the paragraphs with a narrow circle of readers, who have different sensibilities, but the main goal is to write something I myself would enjoy reading. It helps me navigate through my internal compass.
 
--I'm aware perfectionist tendencies are running rampant among creatine types. Luckily I never considered myself to be creative. In web development here's a seemingly ubiquitous concept of cutting project scope to reach a Minimum Viable Product. How do you understand MVP blog post?-
-
--My definition comes down to topic choice and pleasant readability. Topic choice is fairly easy to me. I want topics I know enough about to be useful for you, the readers. I also want to feel strongly enough about a topic to push it past the finish line. It comes down to two types of topics:-
--* The ones I feel passionate about-
--* The ones I struggled with and managed to find a solution for-
-
--Pleasant readability is even more subjective. I write the outline in the first sitting. At that point I have a relatively good idea if the topic is worthy of a full post. Writing itself requires consistency. That's already described in the previous section. My current process of quality control after the post is written consists of reading the post 2-3 times after writing it and doing an editing pass after these readings. Granted, it relies heavily on my feels. But it works for now and I'll improve it along the way.-
-
--Potential problems/risks resulting from this solution:-
--* the lure of perfectionism-
--* long times between posts-
 
 ### In conclusion
 
 My guiding principles are:
 1. Consistent effort, not consistent results
-2. Posts of high quality by my own definition
+2. Picking interesting topics instead of easy topics
+3. Posts of high quality without falling for perfectionism
 
-Both of these points seem to be at the opposite ends of the same spectrum. But if you look at it from another perspective, they point towards the same goal, but serve different functions. The consistent effort is a stabiliser. I want some writing done every day in order to get comfortable with the blank page and the process of writing. I want to move every day in the direction of publishing the next post. Those daily steps don’t have to be huge. But they need to be consistent.
+All of these points seem to me to be at the opposite ends of the same spectrum. But if you look at it from another perspective, they point towards the same goal, but serve different functions. The consistent effort is a stabiliser. I want some writing done every day in order to get comfortable with the blank page and the process of writing. I want to move every day in the direction of publishing the next post. Those daily steps don’t have to be huge. But they need to be consistent.
 
 I’m still enamoured with the idea of a schedule to keep perfectionism at bay. I definitely want to explore that in the future. But first I want to have 6-12 months of daily writing experience under my belt. Focusing on consistent effort right now will be instrumental in helping me get it. I reserve the right to change my mind on the specifics, but the direction should be clear.
 
