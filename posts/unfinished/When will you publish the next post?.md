@@ -5,8 +5,8 @@
 	- [x] Write out what to improve
 	- [x] Move details from the introduction to the actual post
 	- [ ] Trim the fat
-		- [ ] Get rid of the repetition in point 1 (consistency)
-		- [ ] Get rid of the repetition in point 2 (topic)
+		- [x] Get rid of the repetition in point 1 (consistency)
+		- [x] Get rid of the repetition in point 2 (topic)
 		- [ ] Get rid of the repetition in point 3 (quality)
 		- [ ] Simplify the points.
 			- [ ] What did you want to say?
@@ -37,6 +37,8 @@ Call to Action
 
 - - - -
 
+<**EDITING PASS up to here**>
+
 My posts don’t appear on a fixed schedule. There was close to a week between the first post and the second post. Then a bit over 2 weeks before the third post. Then the fourth post dropped 9 weeks after that. What’s up with that?
 
  I didn’t want to commit to a schedule initially. My writing was  inconsistent and I didn’t want to make a promise I couldn’t keep. I published the first post over **3 months ago**. Over that time I got better at understanding my own process. Let’s take another look at the question from the title - “When will you publish the next post?“
@@ -61,7 +63,7 @@ Each of these was an attempt to understand or solve the problems I identified ov
 
 ### Effort 💪 vs results 📚
 
-A post every week is a good goal to aim for in my opinion. I enjoy watching Yahtzee Croshaw’s work, and that guy keeps a weekly or bi-weekly schedule for his videos. He’s remarkably consistent about it too! His flagship game review series called “Zero Punctuation” has been running for 13 years now with very few breaks. I’m inspired by that, and I would definitely want to explore that kind of schedule in the future. A schedule could be a useful tool for me to keep perfectionism
+I enjoy watching Yahtzee Croshaw’s work, and that guy keeps a weekly or bi-weekly schedule for his videos. He’s remarkably consistent about it too! His flagship game review series called “Zero Punctuation” has been running for 13 years now with very few breaks. I’m inspired by that, and I would definitely want to explore that kind of schedule in the future. A post every week is a good goal to aim for in my opinion. A schedule could be a useful tool for me to keep perfectionism
 
 Another way to look at a “schedule” is to see it as “consistent results”. And my current writing output is anything but consistent. But I can control my input - how much time I spend writing and the effort I put into it.
 
@@ -69,9 +71,9 @@ On July 27th I’ve committed to writing every day. By focusing on that consiste
 * my scarce experience in consistent writing
 * getting discouraged by the “blank page”
 
-These two issues seem tightly coupled to me.  The [pottery class parable](https://aliabdaal.com/pottery/) resonates with me. The goal is to put in the work more frequently. Writing often will improve my abilities, at least to a point.  Once I’ve spent a few months writing, I’ll have more tools in my tool belt to figure out publishing good quality posts more often.
+These two issues seem tightly coupled to me.  The [pottery class parable](https://aliabdaal.com/pottery/) resonates with me as a way of thinking about  this. The goal is to put in the work more frequently. Writing often will improve my abilities, at least to a point.  Once I’ve spent a few months writing, I’ll have more tools in my tool belt to figure out publishing good quality posts more often.
 
-I found that starting writing is the most difficult obstacle for me to jump over. A piece of advice that helped me tremendously in this area was to focus on “[2 crappy pages per day](https://tim.blog/2013/12/09/the-ugly-new-york-times-bestseller-the-creative-process-in-action/)”, courtesy of Tim Ferriss. Writing isn’t my full time occupation, so I adjusted it a bit, but the principles are the same. My current version is to write 10 words per day. It's easy enough to trick myself into starting. I usually end up putting much more time into it. An example that steered me towards this solution was [IBM’s low sales quotas](https://www.youtube.com/watch?v=fwjZ99aNsa4) and the question “are you aiming low enough?”.
+I found that starting writing is the most difficult obstacle for me to jump over. Once I get into it, I can write for an hour or two without a hassle. A piece of advice that helped me tremendously in this area was to focus on “[2 crappy pages per day](https://tim.blog/2013/12/09/the-ugly-new-york-times-bestseller-the-creative-process-in-action/)”, courtesy of Tim Ferriss. Writing isn’t my full time occupation, so I adjusted it a bit, but the principles are the same. My current version is to write 10 words per day. It's easy enough to trick myself into starting. I usually end up putting much more time into it. An example that steered me towards this solution was [IBM’s low sales quotas](https://www.youtube.com/watch?v=fwjZ99aNsa4) and the question “are you aiming low enough?”.
 
 Potential problems/risks resulting from this solution:
 * long times between posts
@@ -82,14 +84,7 @@ I would like to write about topics I know enough about to be useful for you, the
 * The ones I feel passionate about
 * The ones I struggled with and managed to find a solution for
 
-Both of these types of topics are easy for me to write the first draft. Sometimes it ends up being too wordy, other times my thoughts are all over the place and I realise I stumbled into an intersection of 4-5 different topics. The latter situation is fascinating to me. It’s a clear direction that tells me “there’s something in that area worth exploring”. If I had a weekly or bi-weekly schedule exploring these types of topics wouldn’t be feasible to me. I wanted to embrace difficult topics, and that’s another part of the reason why there won’t be a posting schedule now.
-
-I think focusing on consistent effort is instrumental in helping me steer towards interesting topics.  Some topics are easy for me to think about. I can write and publish a full post on them in about 2 hours. Those were the first topics I’ve taken to write about on this blog. But not everything was this easy. There are other posts take 15 hours and 6 editing passes spread across 3 months of writing, stewing, splitting, editing and rewriting. And if Tim Urban’s “[Wait but why](https://waitbutwhy.com/)” is any indication, [some topics require years of writing](https://waitbutwhy.com/2019/08/story-of-us.html). With my current level of skills and intuition I don’t know whether a topic I pick is easy or difficult. I realise the difficulty after sinking 3 hours into it. If at that point I only scratched the surface of what I wanted to write about, then that’s a clear enough signals that I stumbled into 4 different topics that only seemed easy at the start. There are at least three choices by then:
-* Take the time to research and explore the topic fully
-* Focus on writing something short about a small part of it
-* Drop the topic
-
-With a weekly or bi-weekly schedule the longer exploration doesn’t seem feasible to me. At this point I don't want to give up the option of a deeper dive into an interesting topic. That’s why I choose to focus on writing every day and giving topics more time.
+Both of these types of topics are easy for me to write the first draft.  I can write and publish a full post on them in about 2-3 hours. Those were the first topics I’ve taken to write about on this blog. Other posts take 15 hours and 6 editing passes spread across 3 months of writing, stewing, splitting, editing and rewriting. And if Tim Urban’s “[Wait but why](https://waitbutwhy.com/)” is any indication, [some topics require years of writing](https://waitbutwhy.com/2019/08/story-of-us.html).  Sometimes the result ends up being too wordy, other times my thoughts are all over the place and I realise I stumbled into an intersection of 4-5 different topics. The latter situation is fascinating to me. It’s a clear direction that tells me “there’s something in that area worth exploring”. If I had a weekly or bi-weekly schedule, following that urge to explore these topics wouldn’t be feasible to me. I wanted to embrace difficult topics, and that’s another part of the reason why there won’t be a posting schedule now.
 
 Potential problems/risks resulting from this solution:
 * the lure of perfectionism
