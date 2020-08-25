@@ -7,7 +7,7 @@
 	- [ ] Trim the fat
 		- [x] Get rid of the repetition in point 1 (consistency)
 		- [x] Get rid of the repetition in point 2 (topic)
-		- [ ] Get rid of the repetition in point 3 (quality)
+		- [x] Get rid of the repetition in point 3 (quality)
 		- [ ] Simplify the points.
 			- [ ] What did you want to say?
 			- [ ] How to say it with the fewest words to get the same point across?
@@ -84,7 +84,7 @@ I would like to write about topics I know enough about to be useful for you, the
 * The ones I feel passionate about
 * The ones I struggled with and managed to find a solution for
 
-Both of these types of topics are easy for me to write the first draft.  I can write and publish a full post on them in about 2-3 hours. Those were the first topics I’ve taken to write about on this blog. Other posts take 15 hours and 6 editing passes spread across 3 months of writing, stewing, splitting, editing and rewriting. And if Tim Urban’s “[Wait but why](https://waitbutwhy.com/)” is any indication, [some topics require years of writing](https://waitbutwhy.com/2019/08/story-of-us.html).  Sometimes the result ends up being too wordy, other times my thoughts are all over the place and I realise I stumbled into an intersection of 4-5 different topics. The latter situation is fascinating to me. It’s a clear direction that tells me “there’s something in that area worth exploring”. If I had a weekly or bi-weekly schedule, following that urge to explore these topics wouldn’t be feasible to me. I wanted to embrace difficult topics, and that’s another part of the reason why there won’t be a posting schedule now.
+Both of these types of topics are easy for me to write the first draft. I can write and publish a full post on them in about 2-3 hours. Those were the first topics I’ve taken to write about on this blog. Other posts take 15 hours and 6 editing passes spread across 3 months of writing, stewing, splitting, editing and rewriting. And if Tim Urban’s “[Wait but why](https://waitbutwhy.com/)” is any indication, [some topics require years of writing](https://waitbutwhy.com/2019/08/story-of-us.html).  Sometimes the result ends up being too wordy, other times my thoughts are all over the place and I realise I stumbled into an intersection of 4-5 different topics. The latter situation is fascinating to me. It’s a clear direction that tells me “there’s something in that area worth exploring”. If I had a weekly or bi-weekly schedule, following that urge to explore these topics wouldn’t be feasible to me. I wanted to embrace difficult topics, and that’s another part of the reason why there won’t be a posting schedule now.
 
 Potential problems/risks resulting from this solution:
 * the lure of perfectionism
@@ -92,22 +92,24 @@ Potential problems/risks resulting from this solution:
 
 ### High quality 🎁 vs Perfectionism 💖
 
-I’ve decided to publish a post as soon as it’s ready. Answering what “ready” means is a bit more tricky. Pleasant readability is even more subjective. I write the outline in the first sitting. At that point I have a relatively good idea if the topic is worthy of a full post. Writing itself requires consistency. That's already described in the previous sections. My current process of quality control after the post is written consists of reading the post 2-3 times after writing it and doing an editing pass after these readings. Granted, it relies heavily on my feels. But it works for now and I'll improve it along the way.
+I’ve decided to publish a post as soon as it’s ready. Answering what “ready” means is a bit more tricky. “High quality” and “pleasant readability” are even more subjective. Each of these is a nebulous term, and those invite a natural mix of productivity and procrastination. They’re easy to control for me during the writing of the first draft.  But once that’s done, I enter the editing stage.
+
+Editing takes the longest amount of time during the writing process. It’s also open-ended - there is no natural upper limit to the time you could spend rereading and editing a post, other than the heat death of the universe or your own departure from this world. The door’s left ajar, letting perfectionism creep in. There’s a well known quote in the writing world:
+
+> “If I had more time I would have written a shorter letter”
+
+The post / book / movie / game can be excellent right now, but it will definitely be better, if we spend 2 more years on it. I call it the “Duke Nukem Forever” syndrome.
 
  Problems I hope to solve:
 * publishing low quality posts
 * keeping perfectionism at bay
+* long times between posts
 
-Editing takes more time than writing during the writing process. It’s also open-ended - there is no natural upper limit to the time you could spend rereading and editing a post, other than the heat death of the universe or your own departure from this world. The door’s left ajar, letting perfectionism creep in. There’s a well known quote in the writing world:
+One solution, that could be helpful in trying to avoid the abyss of endless refinement, is setting a release date or a schedule. I already said why I won’t do that now.
 
-> “If I had more time I would have written a shorter letter”
+Another approach would be to put a limit on editing. A post could always be made better, but I want it to, at the very least, be clear and enjoyable to read. Once those two criteria are met, I will publish it. My current process of quality control after the post is written consists of reading the post 2-3 times after writing it and doing an editing pass after these readings. Granted, it relies heavily on my feels as an internal compass. But it works for now and I'll improve it along the way when it needs improvement.
 
-The post / book / movie / game can be excellent right now, but it will definitely be better, if we spend 2 more years on it. It’s what I call the Duke Nukem Forever syndrome.
-
-One solution, that could be helpful in trying to avoid the abyss of endless refinement, is setting a release date or a schedule. I already said why I won’t do that now. But that would leave this problem unsolved. A post could always be made better, but I want it to, at the very least, be clear and enjoyable to read. Once those two criteria are met, I will publish it. What do these two goals mean?
-
-I start a post off with a topic or a paragraph of thoughts that I consider interesting or worthwhile. After writing my first draft of what I wanted to say in the post, the first few editing passes are aiming to increase the clarity of the message. I want you to be able to easily tell what I’m saying, what’s the context and why I think it’s important. The second goal is for the post to feel good to read. I’ve got a style I enjoy, and I try to write something so that my 10-years younger self would be excited to read it. I’m testing some of the paragraphs with a narrow circle of readers, who have different sensibilities, but the main goal is to write something I myself would enjoy reading. It helps me navigate through my internal compass.
-
+Once these 2-3 editing passes are done and I’m still not happy with the result, I send the post to a narrow circle of readers, who have different sensibilities. I take their feedback into account and do a new set of 2-3 editing passes. At the end of that process the post is done and it will be published.
 
 ### In conclusion
 
@@ -123,6 +125,13 @@ I’m still enamoured with the idea of a schedule to keep perfectionism at bay. 
 Let me reiterate - I’m doing this in my spare time.  I don’t want to publish something I think is a waste of your time as a reader, just to keep a schedule. So there won’t be “new post every Tuesday” or any other arbitrary schedule. When I have written something I consider worth your while, then it’ll get published. I hope you enjoyed this dive into my thinking process on this. I hope it was helpful to you.
 
 ### Promise
+
+- - - -
+My process:
+I write the outline in the first sitting. At that point I have a relatively good idea if the topic is worthy of a full post. Writing itself requires consistency. That's already described in the previous sections. My current process of quality control after the post is written consists of reading the post 2-3 times after writing it and doing an editing pass after these readings. Granted, it relies heavily on my feels. But it works for now and I'll improve it along the way.
+
+I start a post off with a topic or a paragraph of thoughts that I consider interesting or worthwhile. After writing my first draft of what I wanted to say in the post, the first few editing passes are aiming to increase the clarity of the message. I want you to be able to easily tell what I’m saying, what’s the context and why I think it’s important. The second goal is for the post to feel good to read. I’ve got a style I enjoy, and I try to write something so that my 10-years younger self would be excited to read it. I’m testing some of the paragraphs with a narrow circle of readers, who have different sensibilities, but the main goal is to write something I myself would enjoy reading. It helps me navigate through my internal compass.
+- - - -
 
 Finally, I’d like to make a few promises I know I can keep:
 * I will write every day. There might be a single day missed every now and then, but it [won’t happen 2 days in a row](https://www.youtube.com/watch?v=bfLHTLQZ5nc).
