@@ -1,69 +1,101 @@
 # When will you publish the next post?
 - [x] Write the basic post
-- [ ] Editing pass
+- [x] Editing pass
 	- [x] Read again
 	- [x] Write out what to improve
 	- [x] Move details from the introduction to the actual post
-	- [ ] Trim the fat
+	- [x] Trim the fat
 		- [x] Get rid of the repetition in point 1 (consistency)
 		- [x] Get rid of the repetition in point 2 (topic)
 		- [x] Get rid of the repetition in point 3 (quality)
-		- [ ] Simplify the points.
-			- [ ] What did you want to say?
-			- [ ] How to say it with the fewest words to get the same point across?
-	- [ ]  Apply Structure
-- [ ] Change the date in the introduction (“3 months go”)
 - [ ] Editing pass
+	- [ ] Apply Structure
+	- [ ] Simplify the points.
+		- [ ] What did you want to say?
+		- [ ] How to say it with the fewest words to get the same point across?
 	- [ ] Satisfying introduction
-	- [ ] Add images to break up the monotony
 	- [ ] Satisfying conclusion
+	- [ ] Add images to break up the monotony
 - [ ] Editing pass
+	- [ ] Hemingway Editor
 	- [ ] Read the entire post again
 	- [ ] Write out what to improve
+- [ ] Change the date in the introduction (“3 months go”)
 
 #post/in_progress
 
-Context
-Conflict (most important)
-Credibility
-Thesis
-Talking Points
+- [x] Context
+- [x] Conflict (most important)
+- [x] Credibility
+- [x] Thesis
+- [x] Talking Points
+- [ ] Point1,… (rozwinięcie)
 
-Point1,… (rozwinięcie)
-
-Summary
-Przesłanie/Wniosek
-Call to Action
+- [ ] Summary
+- [ ] Przesłanie/Wniosek
+- [ ] Call to Action
 
 - - - -
 
-<**EDITING PASS up to here**>
-
 My posts don’t appear on a fixed schedule. There was close to a week between the first post and the second post. Then a bit over 2 weeks before the third post. Then the fourth post dropped 9 weeks after that. What’s up with that?
 
- I didn’t want to commit to a schedule initially. My writing was  inconsistent and I didn’t want to make a promise I couldn’t keep. I published the first post over **3 months ago**. Over that time I got better at understanding my own process. Let’s take another look at the question from the title - “When will you publish the next post?“
+I published the first post over **3 months ago**. Over that time I got better at understanding my own process. Let’s take another look at the question from the title - “When will you publish the next post?“
 
-The short answer is - I’m writing every day, in my spare time and when I have written something I consider worth your while, then it’ll get published.
+The short answer is - There won’t be a fixed schedule for now. I have been writing every day, in my spare time and when I have written something I consider worth your while, then it’ll get published.
 
-If you’re interested in a longer answer, then I’d like to welcome you to explore with me the topic of writing and publishing posts. 😇
+If you’re interested in a longer answer, then I’d like to welcome you to explore the topic of writing and publishing posts with me. 😇
 
 - - - -
 
 ### The original intent 🤩
 
-I hoped to publish one post every week. I see the value in predicable posting schedule. But I don’t want to post low quality work just because I promised “something” each week.  There’s clearly a conflict between consistent schedule and perfectionism.
+I hoped to publish one post every week. I see the value in predicable posting schedule. But I didn’t want to commit to a schedule initially. I didn’t want to post low quality work just because I promised “something” each week. My writing was inconsistent and I didn’t want to make a promise I couldn’t keep.
 
-I'm aware perfectionist tendencies are running rampant among creatine types. Luckily I never considered myself to be creative. In web development there’s a seemingly ubiquitous concept of cutting project scope to reach a Minimum Viable Product. How do you understand MVP blog post? My definition comes down to  topic choice and high quality of writing. I decided there were three main areas I wanted to focus on:
+There’s clearly a conflict between consistent schedule and perfectionism. I’m aware perfectionist tendencies are running rampant among creatine types. Luckily I never considered myself to be creative. In web development there’s a seemingly ubiquitous concept of cutting project scope to reach a Minimum Viable Product. How do you understand MVP blog post?
 
-1. Consistent effort, not consistent results
-2. Picking interesting topics instead of easy topics
-3. Posts of high quality without falling for perfectionism
+My definition comes down to balancing three main areas:
+1. Picking interesting topics instead of easy topics
+2. High quality without falling for perfectionism
+3. Consistent effort, not consistent results
 
-Each of these was an attempt to understand or solve the problems I identified over time.  Let’s dive in deeper.
+Each of these helps me understand and solve the problems I identified over time.  Let’s dive in deeper.
 
-### Effort 💪 vs results 📚
+### Interesting topics 🔎 vs easy topics 📰
 
-I enjoy watching Yahtzee Croshaw’s work, and that guy keeps a weekly or bi-weekly schedule for his videos. He’s remarkably consistent about it too! His flagship game review series called “Zero Punctuation” has been running for 13 years now with very few breaks. I’m inspired by that, and I would definitely want to explore that kind of schedule in the future. A post every week is a good goal to aim for in my opinion. A schedule could be a useful tool for me to keep perfectionism
+I would like to write about topics I know enough about to be useful for you, the readers. I also want to feel strongly enough about a topic to push it past the finish line. The clear candidates for my post the topics:
+* I feel passionate about
+* I struggled with and managed to find a solution for
+
+Both of these categories make writing first draft easy for me. Sometimes the first draft is good enough to publish, other times it needs editing. The first two topics I’ve taken to write about took 2-3 hours . Other posts take 15 hours and 6 editing passes spread across 3 months of writing, stewing, splitting, editing and rewriting. And if Tim Urban’s “[Wait but why](https://waitbutwhy.com/)” is any indication, [some topics require years of writing](https://waitbutwhy.com/2019/08/story-of-us.html).  Sometimes the result ends up being too wordy, other times my thoughts are all over the place and I realise I stumbled into an intersection of 4-5 different topics. The latter situation is a clear direction that tells me “there’s something in that area worth exploring”. If I had a weekly or bi-weekly schedule, following that urge to explore these topics wouldn’t be feasible to me.
+
+I wanted to embrace both easy and difficult topics, and that’s a big part of the reason why there won’t be a consistent posting schedule for now. Without that schedule the lure of perfectionism will be strong. That’s why I want to consciously balance the next area.
+
+### High quality 🎁 vs Perfectionism 💖
+
+I’ve decided to publish a post as soon as it’s ready. Answering what “ready” means is a bit more tricky. “High quality” and “pleasant readability” are even less clear. Those nebulous terms invite procrastination. Writing the first draft is usually easy.  But once that’s done, I enter the editing stage.
+
+Editing takes the longest amount of time during the writing process. It’s also open-ended - there is no natural upper limit to the time you could spend rereading and editing a post, other than the heat death of the universe or your own departure from this world. The door’s left ajar, letting perfectionism creep in. There’s a well known quote in the writing world:
+
+> “If I had more time I would have written a shorter letter”
+
+That post / book / movie / game you’re working on can be excellent right now, but it will definitely be better, if you spend 2 more years on it. I call it the “Duke Nukem Forever” syndrome.
+
+One solution, that could be helpful in trying to avoid the abyss of endless refinement, is setting a release date or a schedule. I already said why I won’t do that now. Another approach would be to put a limit on the number editing passes. Problems I hope to solve by doing that:
+* publishing low quality posts
+* keeping perfectionism at bay
+* long times between posts
+
+A post could always be made better, but I want it to, at the very least, be clear and enjoyable to read. Once those two criteria are met, I will publish it. My current process of quality control after the post is written consists of reading the post 2-3 times after writing it and doing an editing pass after these readings. Granted, it relies heavily on my feels as an internal compass.
+
+Once these 2-3 editing passes are done and I’m still not happy with the result, I send the post to a narrow circle of readers, who have different sensibilities. I take their feedback into account and do a new set of 2-3 editing passes. At the end of that process the post is done and it will be published.
+
+The process works for now and I'll improve it along the way when it needs improvement. The key here is to keep some type of consistency. That’s where the last area comes in.
+
+### Consistent effort 💪 vs consistent results 📚
+
+I enjoy watching Yahtzee Croshaw’s work. That guy keeps a weekly or bi-weekly schedule for his videos. He’s remarkably consistent about it too! His flagship game review series called “Zero Punctuation” has been running for 13 years now with very few breaks. I’m inspired by that, and I would definitely want to explore that kind of schedule in the future. A post every week is a good goal to aim for in my opinion. A schedule could be a useful tool for me to keep perfectionism at bay.
+
+<**EDITING PASS up to here**>
 
 Another way to look at a “schedule” is to see it as “consistent results”. And my current writing output is anything but consistent. But I can control my input - how much time I spend writing and the effort I put into it.
 
@@ -75,50 +107,17 @@ These two issues seem tightly coupled to me.  The [pottery class parable](https:
 
 I found that starting writing is the most difficult obstacle for me to jump over. Once I get into it, I can write for an hour or two without a hassle. A piece of advice that helped me tremendously in this area was to focus on “[2 crappy pages per day](https://tim.blog/2013/12/09/the-ugly-new-york-times-bestseller-the-creative-process-in-action/)”, courtesy of Tim Ferriss. Writing isn’t my full time occupation, so I adjusted it a bit, but the principles are the same. My current version is to write 10 words per day. It's easy enough to trick myself into starting. I usually end up putting much more time into it. An example that steered me towards this solution was [IBM’s low sales quotas](https://www.youtube.com/watch?v=fwjZ99aNsa4) and the question “are you aiming low enough?”.
 
-Potential problems/risks resulting from this solution:
-* long times between posts
-
-### Interesting topics 🔎 vs easy topics 📰
-
-I would like to write about topics I know enough about to be useful for you, the readers. I also want to feel strongly enough about a topic to push it past the finish line. It comes down to two types of topics:
-* The ones I feel passionate about
-* The ones I struggled with and managed to find a solution for
-
-Both of these types of topics are easy for me to write the first draft. I can write and publish a full post on them in about 2-3 hours. Those were the first topics I’ve taken to write about on this blog. Other posts take 15 hours and 6 editing passes spread across 3 months of writing, stewing, splitting, editing and rewriting. And if Tim Urban’s “[Wait but why](https://waitbutwhy.com/)” is any indication, [some topics require years of writing](https://waitbutwhy.com/2019/08/story-of-us.html).  Sometimes the result ends up being too wordy, other times my thoughts are all over the place and I realise I stumbled into an intersection of 4-5 different topics. The latter situation is fascinating to me. It’s a clear direction that tells me “there’s something in that area worth exploring”. If I had a weekly or bi-weekly schedule, following that urge to explore these topics wouldn’t be feasible to me. I wanted to embrace difficult topics, and that’s another part of the reason why there won’t be a posting schedule now.
-
-Potential problems/risks resulting from this solution:
-* the lure of perfectionism
-* long times between posts
-
-### High quality 🎁 vs Perfectionism 💖
-
-I’ve decided to publish a post as soon as it’s ready. Answering what “ready” means is a bit more tricky. “High quality” and “pleasant readability” are even more subjective. Each of these is a nebulous term, and those invite a natural mix of productivity and procrastination. They’re easy to control for me during the writing of the first draft.  But once that’s done, I enter the editing stage.
-
-Editing takes the longest amount of time during the writing process. It’s also open-ended - there is no natural upper limit to the time you could spend rereading and editing a post, other than the heat death of the universe or your own departure from this world. The door’s left ajar, letting perfectionism creep in. There’s a well known quote in the writing world:
-
-> “If I had more time I would have written a shorter letter”
-
-The post / book / movie / game can be excellent right now, but it will definitely be better, if we spend 2 more years on it. I call it the “Duke Nukem Forever” syndrome.
-
- Problems I hope to solve:
-* publishing low quality posts
-* keeping perfectionism at bay
-* long times between posts
-
-One solution, that could be helpful in trying to avoid the abyss of endless refinement, is setting a release date or a schedule. I already said why I won’t do that now.
-
-Another approach would be to put a limit on editing. A post could always be made better, but I want it to, at the very least, be clear and enjoyable to read. Once those two criteria are met, I will publish it. My current process of quality control after the post is written consists of reading the post 2-3 times after writing it and doing an editing pass after these readings. Granted, it relies heavily on my feels as an internal compass. But it works for now and I'll improve it along the way when it needs improvement.
-
-Once these 2-3 editing passes are done and I’m still not happy with the result, I send the post to a narrow circle of readers, who have different sensibilities. I take their feedback into account and do a new set of 2-3 editing passes. At the end of that process the post is done and it will be published.
+-Potential problems or risks resulting from this solution:-
+-* long times between posts-
 
 ### In conclusion
 
 My guiding principles are:
-1. Consistent effort, not consistent results
-2. Picking interesting topics instead of easy topics
-3. Posts of high quality without falling for perfectionism
+1. Picking interesting topics instead of easy topics
+2. High quality without falling for perfectionism
+3. Consistent effort, not consistent results
 
-All of these points seem to me to be at the opposite ends of the same spectrum. But if you look at it from another perspective, they point towards the same goal, but serve different functions. The consistent effort is a stabiliser. I want some writing done every day in order to get comfortable with the blank page and the process of writing. I want to move every day in the direction of publishing the next post. Those daily steps don’t have to be huge. But they need to be consistent.
+All of these points seem to me to point towards the same goal, but serve different functions. The consistent effort is a stabiliser. I want some writing done every day in order to get comfortable with the blank page and the process of writing. I want to move every day in the direction of publishing the next post. Those daily steps don’t have to be huge. But they need to be consistent.
 
 I’m still enamoured with the idea of a schedule to keep perfectionism at bay. I definitely want to explore that in the future. But first I want to have 6-12 months of daily writing experience under my belt. Focusing on consistent effort right now will be instrumental in helping me get it. I reserve the right to change my mind on the specifics, but the direction should be clear.
 
