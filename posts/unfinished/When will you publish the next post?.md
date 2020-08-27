@@ -9,7 +9,7 @@
 		- [x] Get rid of the repetition in point 2 (topic)
 		- [x] Get rid of the repetition in point 3 (quality)
 - [ ] Editing pass
-	- [ ] Apply Structure
+	- [x] Apply Structure
 	- [ ] Simplify the points.
 		- [ ] What did you want to say?
 		- [ ] How to say it with the fewest words to get the same point across?
@@ -24,18 +24,8 @@
 
 #post/in_progress
 
-- [x] Context
-- [x] Conflict (most important)
-- [x] Credibility
-- [x] Thesis
-- [x] Talking Points
-- [ ] Point1,… (rozwinięcie)
-
-- [ ] Summary
-- [ ] Przesłanie/Wniosek
-- [ ] Call to Action
-
 - - - -
+<**EDITING PASS up to here**>
 
 My posts don’t appear on a fixed schedule. There was close to a week between the first post and the second post. Then a bit over 2 weeks before the third post. Then the fourth post dropped 9 weeks after that. What’s up with that?
 
@@ -93,50 +83,33 @@ The process works for now and I'll improve it along the way when it needs improv
 
 ### Consistent effort 💪 vs consistent results 📚
 
-I enjoy watching Yahtzee Croshaw’s work. That guy keeps a weekly or bi-weekly schedule for his videos. He’s remarkably consistent about it too! His flagship game review series called “Zero Punctuation” has been running for 13 years now with very few breaks. I’m inspired by that, and I would definitely want to explore that kind of schedule in the future. A post every week is a good goal to aim for in my opinion. A schedule could be a useful tool for me to keep perfectionism at bay.
+I enjoy watching Yahtzee Croshaw’s work. That guy keeps a weekly or bi-weekly schedule for his videos. He’s been remarkably consistent about it. His flagship game review series called “Zero Punctuation” has been running for 13 years now with very few breaks. I’m inspired by that, and I would definitely want to explore that kind of schedule in the future. A post every week is a good goal to aim for. A schedule could be a useful tool for me to keep perfectionism at bay.
 
-<**EDITING PASS up to here**>
+Another way to look at a schedule is to deliver results consistently. And my current writing output is anything but consistent. But I can control my input - how much time I spend writing and the effort I put into it.
 
-Another way to look at a “schedule” is to see it as “consistent results”. And my current writing output is anything but consistent. But I can control my input - how much time I spend writing and the effort I put into it.
-
-On July 27th I’ve committed to writing every day. By focusing on that consistent effort I hope to solve the following problems:
-* my scarce experience in consistent writing
+On July 27th I’ve committed to writing every day. By focusing on effort I hope to solve the following problems:
+* my scarce writing experience
 * getting discouraged by the “blank page”
 
-These two issues seem tightly coupled to me.  The [pottery class parable](https://aliabdaal.com/pottery/) resonates with me as a way of thinking about  this. The goal is to put in the work more frequently. Writing often will improve my abilities, at least to a point.  Once I’ve spent a few months writing, I’ll have more tools in my tool belt to figure out publishing good quality posts more often.
+These two issues seem tightly coupled to me. The [pottery class parable](https://aliabdaal.com/pottery/) resonates with me as a way of thinking about this. The goal is to put in the work more frequently. Writing often will improve my abilities, at least to a point.  Once I’ve spent a few months writing, I’ll have better tools in my tool belt to figure out publishing good quality posts more often.
 
-I found that starting writing is the most difficult obstacle for me to jump over. Once I get into it, I can write for an hour or two without a hassle. A piece of advice that helped me tremendously in this area was to focus on “[2 crappy pages per day](https://tim.blog/2013/12/09/the-ugly-new-york-times-bestseller-the-creative-process-in-action/)”, courtesy of Tim Ferriss. Writing isn’t my full time occupation, so I adjusted it a bit, but the principles are the same. My current version is to write 10 words per day. It's easy enough to trick myself into starting. I usually end up putting much more time into it. An example that steered me towards this solution was [IBM’s low sales quotas](https://www.youtube.com/watch?v=fwjZ99aNsa4) and the question “are you aiming low enough?”.
+I found that the most difficult obstacle for me to jump over was to actually start writing. Once I get into it, I can write for an hour or two without a hassle. A piece of advice that helped me tremendously in this area was to focus on “[2 crappy pages per day](https://tim.blog/2013/12/09/the-ugly-new-york-times-bestseller-the-creative-process-in-action/)”, courtesy of Tim Ferriss. I adjusted this rule because writing isn’t my full time occupation. My current version is to write 10 words per day. It's easy enough to trick myself into starting. I usually end up putting much more time into it. An example that steered me towards this solution was [IBM’s low sales quotas](https://www.youtube.com/watch?v=fwjZ99aNsa4) and the question “are you aiming low enough?”.
 
--Potential problems or risks resulting from this solution:-
--* long times between posts-
+### Summary
 
-### In conclusion
+There won’t be a fixed schedule for now. I will focus on interesting topics, high quality and writing every day. I’m still enamoured with the idea of a schedule to keep perfectionism at bay. I definitely want to explore that in the future. But first I want to have 6-12 months of daily writing experience under my belt. Focusing on consistent effort right now will be instrumental in helping me get it. I reserve the right to change my mind on the specifics, but the direction should be clear.
 
-My guiding principles are:
-1. Picking interesting topics instead of easy topics
-2. High quality without falling for perfectionism
-3. Consistent effort, not consistent results
+Let me reiterate - I’m doing this in my spare time.  I don’t want to publish something I think is a waste of your time as a reader, just to keep a schedule. So there won’t be “a new post every Tuesday” or any other arbitrary schedule. When I have written something I consider worth your while, then it’ll get published.
 
-All of these points seem to me to point towards the same goal, but serve different functions. The consistent effort is a stabiliser. I want some writing done every day in order to get comfortable with the blank page and the process of writing. I want to move every day in the direction of publishing the next post. Those daily steps don’t have to be huge. But they need to be consistent.
-
-I’m still enamoured with the idea of a schedule to keep perfectionism at bay. I definitely want to explore that in the future. But first I want to have 6-12 months of daily writing experience under my belt. Focusing on consistent effort right now will be instrumental in helping me get it. I reserve the right to change my mind on the specifics, but the direction should be clear.
-
-Let me reiterate - I’m doing this in my spare time.  I don’t want to publish something I think is a waste of your time as a reader, just to keep a schedule. So there won’t be “new post every Tuesday” or any other arbitrary schedule. When I have written something I consider worth your while, then it’ll get published. I hope you enjoyed this dive into my thinking process on this. I hope it was helpful to you.
-
-### Promise
-
-- - - -
-My process:
-I write the outline in the first sitting. At that point I have a relatively good idea if the topic is worthy of a full post. Writing itself requires consistency. That's already described in the previous sections. My current process of quality control after the post is written consists of reading the post 2-3 times after writing it and doing an editing pass after these readings. Granted, it relies heavily on my feels. But it works for now and I'll improve it along the way.
-
-I start a post off with a topic or a paragraph of thoughts that I consider interesting or worthwhile. After writing my first draft of what I wanted to say in the post, the first few editing passes are aiming to increase the clarity of the message. I want you to be able to easily tell what I’m saying, what’s the context and why I think it’s important. The second goal is for the post to feel good to read. I’ve got a style I enjoy, and I try to write something so that my 10-years younger self would be excited to read it. I’m testing some of the paragraphs with a narrow circle of readers, who have different sensibilities, but the main goal is to write something I myself would enjoy reading. It helps me navigate through my internal compass.
-- - - -
+### I’ve got a promise for you
 
 Finally, I’d like to make a few promises I know I can keep:
 * I will write every day. There might be a single day missed every now and then, but it [won’t happen 2 days in a row](https://www.youtube.com/watch?v=bfLHTLQZ5nc).
 * Every post you’ll see appear on this blog will be thoroughly read many times to ensure it reads well and the quality will be as high as I can manage.
-* I will fix all typos and language errors I can find. If you find any that I missed, please feel free to tell me at [contact@warpas.blog](mailto:contact@warpas.blog) or in the comments (**when they’re available**).
+* I will fix all typos and language errors I can find. If you find any that I missed, please feel free to tell me.
 
-Thank you for reading ❤️
+I hope you enjoyed this dive into my thinking process on this. I hope it was helpful to you. Thank you for reading ❤️
+
+Did you enjoy this post? Please tell me at [contact@warpas.blog](mailto:contact@warpas.blog) or in the comments below.
 
 _And no, I’m not shooting for a_ [Wait But Why](https://waitbutwhy.com/) _post length anytime soon._
