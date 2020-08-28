@@ -11,15 +11,27 @@
 - [ ] Editing pass
 	- [x] Apply Structure
 	- [ ] Simplify the points.
-		- [ ] What did you want to say?
+		- [x] What did you want to say?
+			- [ ] In s1 - “topics”
+				- [ ] I wanted to say that some topics require a deeper dive. I feel I would have to avoid these topics if I stuck to a schedule. I wouldn’t want to avoid those topics.
+			- [ ] In s2 - “high quality”
+				- [ ] I wanted to say what are the steps I’m going to take to make sure my posts are of high quality and not fall into the trap of perfectionism. I also want to articulate what I mean by “high quality”
+			- [ ] In s3 - “consistency”
+				- [ ] I wanted to say why I think consistent effort is more important than consistent results.
 		- [ ] How to say it with the fewest words to get the same point across?
 	- [ ] Satisfying introduction
+		- [ ] I don’t like the “let’s look at the topic again” line
+		- [ ] I feel I’m almost there
 	- [ ] Satisfying conclusion
+		- [ ] I feel there’s a lot to be done before I’m there
 	- [ ] Add images to break up the monotony
 - [ ] Editing pass
 	- [ ] Hemingway Editor
 	- [ ] Read the entire post again
 	- [ ] Write out what to improve
+		- [ ] I feel I often repeat that “there won’t be a schedule, but I’d like one”.
+			- [ ] Count those instances
+			- [ ] Minimize the amount and put them in one place (+ maybe the conclusion)
 - [ ] Change the date in the introduction (“3 months go”)
 
 #post/in_progress
@@ -27,13 +39,13 @@
 - - - -
 <**EDITING PASS up to here**>
 
-My posts don’t appear on a fixed schedule. There was close to a week between the first post and the second post. Then a bit over 2 weeks before the third post. Then the fourth post dropped 9 weeks after that. What’s up with that?
+My posts didn’t appear on a fixed schedule up to this point. There was close to a week between the first post and the second one. Then a bit over 2 weeks before the third one. Then the fourth one dropped 9 weeks after that. What’s up with that?
 
-I published the first post over **3 months ago**. Over that time I got better at understanding my own process. Let’s take another look at the question from the title - “When will you publish the next post?“
+I published the first post over **3 months ago**. Over that time I got better at understanding my own process. **Let’s take another look at the question from the title** - “When will you publish the next post?“
 
 The short answer is - There won’t be a fixed schedule for now. I have been writing every day, in my spare time and when I have written something I consider worth your while, then it’ll get published.
 
-If you’re interested in a longer answer, then I’d like to welcome you to explore the topic of writing and publishing posts with me. 😇
+If you’re interested in a longer answer, then you’re welcome to explore the topic of writing and publishing with me. 😇
 
 - - - -
 
@@ -52,9 +64,9 @@ Each of these helps me understand and solve the problems I identified over time.
 
 ### Interesting topics 🔎 vs easy topics 📰
 
-I would like to write about topics I know enough about to be useful for you, the readers. I also want to feel strongly enough about a topic to push it past the finish line. The clear candidates for my post the topics:
+I would like to write about topics I know enough about to be useful for you, the readers. I also want to feel strongly enough about a topic to push it past the finish line. The clear candidates for my post are the topics:
 * I feel passionate about
-* I struggled with and managed to find a solution for
+* I struggled with and found a solution for
 
 Both of these categories make writing first draft easy for me. Sometimes the first draft is good enough to publish, other times it needs editing. The first two topics I’ve taken to write about took 2-3 hours . Other posts take 15 hours and 6 editing passes spread across 3 months of writing, stewing, splitting, editing and rewriting. And if Tim Urban’s “[Wait but why](https://waitbutwhy.com/)” is any indication, [some topics require years of writing](https://waitbutwhy.com/2019/08/story-of-us.html).  Sometimes the result ends up being too wordy, other times my thoughts are all over the place and I realise I stumbled into an intersection of 4-5 different topics. The latter situation is a clear direction that tells me “there’s something in that area worth exploring”. If I had a weekly or bi-weekly schedule, following that urge to explore these topics wouldn’t be feasible to me.
 
@@ -85,7 +97,7 @@ The process works for now and I'll improve it along the way when it needs improv
 
 I enjoy watching Yahtzee Croshaw’s work. That guy keeps a weekly or bi-weekly schedule for his videos. He’s been remarkably consistent about it. His flagship game review series called “Zero Punctuation” has been running for 13 years now with very few breaks. I’m inspired by that, and I would definitely want to explore that kind of schedule in the future. A post every week is a good goal to aim for. A schedule could be a useful tool for me to keep perfectionism at bay.
 
-Another way to look at a schedule is to deliver results consistently. And my current writing output is anything but consistent. But I can control my input - how much time I spend writing and the effort I put into it.
+Another way to look at a schedule is to deliver results consistently. And my current writing output is anything but consistent. But I can control my input - how much time I spend writing and the effort I put into it. **I’m hoping the results will follow the effort. There won’t be a post every week, but I’m aiming at 15-25 posts every year. I’m hoping that instead of 52 mediocre posts, I’ll manage to publish 25 good posts with possibly 10 gems among those.**
 
 On July 27th I’ve committed to writing every day. By focusing on effort I hope to solve the following problems:
 * my scarce writing experience
