@@ -51,11 +51,20 @@ If you’re interested in a longer answer, then you’re welcome to explore the 
 
 ### The original intent 🤩
 
-I hoped to publish one post every week. I see the value in predicable posting schedule. But I didn’t want to commit to a schedule initially. I didn’t want to post low quality work just because I promised “something” each week. My writing was inconsistent and I didn’t want to make a promise I couldn’t keep.
+I hoped to publish one post every week. I enjoy watching Yahtzee Croshaw’s work. That guy keeps a weekly or bi-weekly schedule for his videos. He’s been remarkably consistent about it. His flagship game review series called “Zero Punctuation” has been running for 13 years now with very few breaks. I’m inspired by that but I didn’t want to commit to a similar amount of work initially. I was afraid I wouldn’t be able to post that often. My writing was inconsistent and I didn’t want to make a promise I couldn’t keep.
 
-There’s clearly a conflict between consistent schedule and perfectionism. I’m aware perfectionist tendencies are running rampant among creatine types. Luckily I never considered myself to be creative. In web development there’s a seemingly ubiquitous concept of cutting project scope to reach a Minimum Viable Product. How do you understand MVP blog post?
+Without a schedule there is not clear end to writing and editing. A schedule could be a useful tool for me to fight perfectionist tendencies. They’re rampant among creatine types. Luckily I never considered myself to be creative. In web development there’s a seemingly ubiquitous concept of cutting project scope to reach a Minimum Viable Product. How do you understand a MVP blog post?
 
-My definition comes down to balancing three main areas:
+### Minimum Viable Post 💡
+
+What does a post need to have to be good? Think about for 3 seconds before reading on…
+
+My definition of a good MVP comes down to:
+1. An interesting topic
+2. High quality writing (clear, concise)
+
+<How to get to the following 3 points?>
+
 1. Picking interesting topics instead of easy topics
 2. High quality without falling for perfectionism
 3. Consistent effort, not consistent results
@@ -94,8 +103,6 @@ Once these 2-3 editing passes are done and I’m still not happy with the result
 The process works for now and I'll improve it along the way when it needs improvement. The key here is to keep some type of consistency. That’s where the last area comes in.
 
 ### Consistent effort 💪 vs consistent results 📚
-
-I enjoy watching Yahtzee Croshaw’s work. That guy keeps a weekly or bi-weekly schedule for his videos. He’s been remarkably consistent about it. His flagship game review series called “Zero Punctuation” has been running for 13 years now with very few breaks. I’m inspired by that, and I would definitely want to explore that kind of schedule in the future. A post every week is a good goal to aim for. A schedule could be a useful tool for me to keep perfectionism at bay.
 
 Another way to look at a schedule is to deliver results consistently. And my current writing output is anything but consistent. But I can control my input - how much time I spend writing and the effort I put into it. **I’m hoping the results will follow the effort. There won’t be a post every week, but I’m aiming at 15-25 posts every year. I’m hoping that instead of 52 mediocre posts, I’ll manage to publish 25 good posts with possibly 10 gems among those.**
 
