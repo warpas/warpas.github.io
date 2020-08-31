@@ -99,22 +99,22 @@ I wanted to embrace both easy and difficult topics, and that’s a big part of t
 
 I’ve decided to publish a post as soon as it’s ready. Answering what “ready” means is a bit more tricky. “High quality” and “pleasant readability” are even less clear. Those nebulous terms invite procrastination.
 
-Writing the first draft is usually easy.  But once that’s done, I enter the editing stage. There’s a well known quote in the writing world:
+Writing the first draft is usually easy.  But once that’s done, the editing stage is up ahead. There’s a well known quote in the writing world:
 
 > “If I had more time I would have written a shorter letter”
 
 Editing takes the longest amount of time during the writing process. It’s also open-ended - there is no natural upper limit to the time you could spend rereading and editing a post, other than the heat death of the universe or your own departure from this world. The door’s left ajar, letting perfectionism creep in.
 
-Creators hope their work will only get better the more time they spend on it. That post / book / movie / game you’re working on can be excellent right now, but it will definitely be better, if you spend 2 more years on it. In reality the longer you spend on your work without focusing on the goal of releasing it, the less likely it is to ever come out. Or it will come out as jumbled, unfocused mess. I call it the “[Duke Nukem Forever](https://www.youtube.com/watch?v=Pf-NmzJFEn0)” syndrome.
+Creators hope their work will only get better the more time they spend on it. That post / book / painting / movie / game you’re working on can be excellent right now, but it will definitely be better, if you spend 2 more years on it. In reality the longer you spend on your work without focusing on the goal of releasing it, the less likely it is to ever come out. Or it will come out as jumbled, unfocused mess. I call it the “[Duke Nukem Forever](https://www.youtube.com/watch?v=Pf-NmzJFEn0)” syndrome.
 
 One solution, that could be helpful in trying to avoid the abyss of endless refinement, is setting a release date or a schedule. I already said why I won’t do that now. Another approach would be to put a limit on the number editing passes. Problems I hope to solve by doing that:
 * publishing low quality posts
 * keeping perfectionism at bay
 * long times between posts
 
-A post could always be made better, but I want it to, at the very least, be clear, concise and enjoyable to read. Once those three criteria are met, I will publish it. My current process of quality control after the post is written consists of reading the post 2-3 times after writing it and doing an editing pass after these readings. Granted, it relies heavily on my feels as an internal compass.
+A post could always be made better, but I want it to, at the very least, be clear, concise and enjoyable to read. Once those three criteria are met, I will publish it. My current process of quality control, after the first draft is ready, consists of reading the post 2-3 times and doing an editing pass after each reading.
 
-Once these 2-3 editing passes are done and I’m still not happy with the result, I send the post to a narrow circle of readers, who have different sensibilities. I take their feedback into account and do a new set of 2-3 editing passes. At the end of that process the post is done and it will be published.
+Once these editing passes are done and I’m still not happy with the result, I send the post to a narrow circle of readers, who have different sensibilities. I take their feedback into account and do a new set of 2-3 editing passes. At the end of that process the post is done and it will be published. Granted, the result relies heavily on my feels as an internal compass.
 
 The process works for now and I'll improve it along the way when it needs improvement. The key here is to keep some type of consistency. That’s where the last area comes in.
 
