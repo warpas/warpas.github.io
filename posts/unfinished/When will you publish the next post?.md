@@ -22,8 +22,8 @@
 	- [x] Satisfying introduction
 		- [x] I don’t like the “let’s look at the topic again” line
 		- [x] I feel I’m almost there
-	- [ ] Satisfying conclusion
-		- [ ] I feel there’s a lot to be done before I’m there
+	- [x] Satisfying conclusion
+		- [x] I feel there’s a lot to be done before I’m there
 	- [ ] Add images to break up the monotony
 		- [ ] Find good places for images
 		- [ ] Find fitting images
@@ -131,17 +131,15 @@ These two issues seem tightly coupled to me. The [pottery class parable](https:/
 
 I found that the most difficult obstacle for me to jump over was to actually start writing. Once I get into it, I can write for an hour or two without a hassle. A piece of advice that helped me tremendously in this area was to focus on “[2 crappy pages per day](https://tim.blog/2013/12/09/the-ugly-new-york-times-bestseller-the-creative-process-in-action/)”, courtesy of Tim Ferriss. I adjusted this rule because writing isn’t my full time occupation. My current version of it is to write 10 words per day. It's easy enough to trick myself into starting. I usually end up putting much more time into it. An example that steered me towards this solution was [IBM’s low sales quotas](https://www.youtube.com/watch?v=fwjZ99aNsa4) and the question “are you aiming low enough?”.
 
-### Summary
+<**great spot for an image**>
 
-There won’t be a fixed schedule for now. I’m doing this in my spare time and I don’t want to publish something I think is a waste of your time as a reader. I will focus on high quality posts on interesting topics and strive to make progress on them every day.
+### In conclusion
 
-I’m still enamoured with the idea of having some sort of a schedule. I definitely want to explore that in the future. But first I want to have 6-12 months of daily writing experience under my belt. Focusing on consistent effort right now will be instrumental in helping me get there.
+I want to focus on writing daily about interesting topics. Most of this writing time will go to a limited number of editing passes. I’m doing this in my spare time and I don’t want to publish something I think is a waste of your time as a reader. I’m still enamoured with the idea of having some sort of a schedule. I definitely want to explore that in the future. But it means there won’t be a fixed schedule for now.
 
 Finally, I’d like to make a few promises I know I can keep:
 * I will write every day. There might be a single day missed every now and then, but it [won’t happen 2 days in a row](https://www.youtube.com/watch?v=bfLHTLQZ5nc).
 * Every post you’ll see appear on this blog will be thoroughly read many times to ensure it reads well. I will make them as clear and concise as I can manage.
-
--**I’m hoping the results will follow the effort. There won’t be a post every week, but I’m aiming at 15-25 posts every year. I’m hoping that instead of 52 mediocre posts, I’ll manage to publish 25 good posts with possibly 10 gems among those.**-
 
 I hope you enjoyed this dive into my thinking process on this. I hope it was helpful to you. Thank you for reading ❤️
 
