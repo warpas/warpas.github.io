@@ -24,6 +24,7 @@
 		- [x] I feel I’m almost there
 	- [x] Satisfying conclusion
 		- [x] I feel there’s a lot to be done before I’m there
+	- [ ] Fill in the blanks left by editing
 	- [ ] Add images to break up the monotony
 		- [ ] Find good places for images
 		- [ ] Find fitting images
@@ -71,7 +72,14 @@ My definition of a good MVP comes down to:
 1. An interesting topic
 2. Writing of high quality - clear & concise
 
-<**Insert a mention of consistent effort**>
+These two criteria are both required. For a post like that to be created, I have a sneaky third important point of focus:
+
+3. I have to **actually write** the post. And I have to do it consistently.
+
+Thinking about it led me to draw a clear distinction between consistent output and consistent input.
+
+Pondering these three points was a fun and esoteric journey for me. The
+
 <**Insert a segue into the next section**>
 
 - - - -
