@@ -24,7 +24,7 @@
 		- [x] I feel I’m almost there
 	- [x] Satisfying conclusion
 		- [x] I feel there’s a lot to be done before I’m there
-	- [ ] Fill in the blanks left by editing
+	- [x] Fill in the blanks left by editing
 	- [ ] Add images to break up the monotony
 		- [ ] Find good places for images
 		- [ ] Find fitting images
@@ -68,29 +68,21 @@ Without a schedule there is not clear end to writing and editing. A schedule cou
 
 What does a post need to have to be good? Please take 3 seconds to think about that before reading on…
 
-My definition of a good MVP comes down to:
+My definition of a good MVP comes down to two priorities:
 1. An interesting topic
 2. Writing of high quality - clear & concise
 
-These two criteria are both required. For a post like that to be created, I have a sneaky third important point of focus:
+I think these two criteria are both required. For a post like that to be created in a timely fashion, I have a sneaky third important point of focus:
 
 3. I have to **actually write** the post. And I have to do it consistently.
 
 Thinking about it led me to draw a clear distinction between consistent output and consistent input.
 
-Pondering these three points was a fun and esoteric journey for me. The
+The three points above turned to be critical to answer questions I had about the regularity of post releases. All of them expose priorities that need to be balanced. Each of them represents a spectrum of possible approaches. I learned a lot about my own approach and writing process while exploring these points. I hope you’ll come out the other way with at least a single new idea or technique for thinking about your creative ventures.
 
-<**Insert a segue into the next section**>
+<**great spot for an image**>
 
-- - - -
--<How to get to the following 3 points?>-
-
--1. Picking interesting topics instead of easy topics-
--2. High quality without falling for perfectionism-
--3. Consistent effort, not consistent results-
-
--Each of these helps me understand and solve the problems I identified over time.  Let’s dive in deeper.-
-- - - -
+The first priority for writing is the attempt at answering the simplest of questions - “what will you write about?”.
 
 ### Keeping a schedule 📅 vs tackling interesting topics 🔎
 
