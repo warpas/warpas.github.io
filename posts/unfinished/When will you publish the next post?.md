@@ -30,6 +30,7 @@
 		- [ ] Find fitting images
 - [ ] Editing pass
 	- [ ] Hemingway Editor
+		- [x] Partial
 	- [ ] Read the entire post again
 	- [ ] Write out what to improve
 		- [ ] I feel I often repeat that “there won’t be a schedule, but I’d like one”.
@@ -44,11 +45,11 @@
 
 My posts didn’t appear on a fixed schedule up to this point. There was close to a week between the first post and the second one. Then a bit over 2 weeks before the third one. Then the fourth one dropped 9 weeks after that. What’s up with that?
 
-I published the first post over **3 months ago**. Over that time I got better at understanding my own process. With that in mind I’d like to answer the question from the title - “When will you publish the next post?“
+I published the first post over **3 months ago**. Over that time I got better at understanding my own process. With that in mind, I’d like to answer the question from the title - “When will you publish the next post?“
 
-The short answer is - There won’t be a fixed schedule for now. I have been writing every day, in my spare time and when I have written something I consider worth your while, then it’ll get published.
+The short answer is - There won’t be a fixed schedule for now. I have been writing every day in my spare time. And when I have written something worth your while, then it’ll get published.
 
-If you’re interested in a my reasoning behind this answer, then you’re welcome to read on and explore the topic of writing and publishing with me. 😇
+You’re welcome to read on and explore the topic of writing and publishing with me. 😇
 
 - - - -
 
@@ -56,9 +57,9 @@ If you’re interested in a my reasoning behind this answer, then you’re welco
 
 <**great spot for an image**>
 
-I hoped to publish one post every week. I quickly found it to be impossible given the amount of time I dedicate to writing.
+I hoped to publish one post every week. Two weeks in, I realised it’s impossible given the amount of time I dedicate to writing.
 
-I enjoy watching Yahtzee Croshaw’s work. That guy keeps a weekly or bi-weekly schedule for his videos. He’s been remarkably consistent about it. His flagship game review series called “Zero Punctuation” has been running for 13 years now with very few breaks. I’m inspired by that but I didn’t want to commit to a similar amount of output initially. I was afraid I wouldn’t be able to post that often. My writing was inconsistent and I didn’t want to make a promise I couldn’t keep.
+I enjoy watching Yahtzee Croshaw’s work. That guy keeps a weekly or bi-weekly schedule for his videos. He’s been remarkably consistent about it. His flagship game review series - “Zero Punctuation” - has been running for 13 years now with very few breaks. I’m inspired by that but I didn’t want to commit to a similar amount of output initially. I was afraid I wouldn’t be able to post that often. My writing was inconsistent and I didn’t want to make a promise I couldn’t keep.
 
 ### Minimum Viable Post 💡
 
@@ -72,7 +73,7 @@ My definition of a good MVP comes down to two priorities:
 1. An interesting topic
 2. Writing of high quality - clear & concise
 
-I think these two criteria are both required. For a post like that to be created in a timely fashion, I have a sneaky third important point of focus:
+These two criteria are both required. For a post like that to be created in a timely fashion, I have a sneaky third important point of focus:
 
 3. I have to **actually write** the post. And I have to do it consistently.
 
