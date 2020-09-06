@@ -63,7 +63,7 @@ I enjoy watching Yahtzee Croshaw’s work. That guy keeps a weekly or bi-weekly 
 
 ### Minimum Viable Post 💡
 
-Without a schedule there is not clear end to writing and editing. A schedule could be a useful tool for me to fight perfectionist tendencies. They’re rampant among creatine types. Luckily I never considered myself to be creative. In web development there’s a seemingly ubiquitous concept of cutting project scope to reach a Minimum Viable Product. How do you understand a MVP blog post?
+Without a schedule there is not clear end to writing and editing. A schedule could be a useful tool for me to fight perfectionist tendencies. They’re rampant among creatine types. Luckily I never considered myself to be creative. Minimum Viable Product is an important concept in web development. It’s a seemingly ubiquitous goal of cutting project scope initially. How would you understand a MVP blog post?
 
 <**great spot for an image**>
 
@@ -75,11 +75,9 @@ My definition of a good MVP comes down to two priorities:
 
 These two criteria are both required. For a post like that to be created in a timely fashion, I have a sneaky third important point of focus:
 
-3. I have to **actually write** the post. And I have to do it consistently.
+3. I have to **actually write** the post. And I have to be consistent about it.
 
-Thinking about it led me to draw a clear distinction between consistent output and consistent input.
-
-The three points above turned to be critical to answer questions I had about the regularity of post releases. All of them expose priorities that need to be balanced. Each of them represents a spectrum of possible approaches. I learned a lot about my own approach and writing process while exploring these points. I hope you’ll come out the other way with at least a single new idea or technique for thinking about your creative ventures.
+The three points above turned to be critical in answering my own questions this topic. They expose priorities that need to balancing. Each of them represents a spectrum of possible approaches. I learned a lot about my own approach and writing process while exploring these points. I hope you’ll come out the other way with a new idea for thinking about your creative ventures.
 
 <**great spot for an image**>
 
@@ -87,12 +85,12 @@ The first priority for writing is the attempt at answering the simplest of quest
 
 ### Keeping a schedule 📅 vs tackling interesting topics 🔎
 
-I would like to write about topics I know enough about to be useful for you, the readers. I also want to feel strongly enough about a topic to be excited about pushing it past the finish line. The clear candidates for my post are the topics:
+I would like to write about topics I know enough about to be useful for you, the readers. The clear candidates for my post are the topics:
 * I feel passionate about
 * I struggled with and found a solution for
-* Have made significant positive impact on my life
+* Have made a significant positive impact on my life
 
-These categories make writing first draft easy for me. Sometimes the result is good enough to publish, most other times it needs editing. The first two topics I’ve taken to write about took 2-3 hours each . Other posts take up to 15 hours and 6 editing passes spread across 3 months of writing, stewing, splitting, editing and rewriting. And if Tim Urban’s “[Wait but why](https://waitbutwhy.com/)” is any indication, [some topics require years of writing](https://waitbutwhy.com/2019/08/story-of-us.html).  Sometimes the result ends up being too wordy, other times my thoughts are all over the place and I realise I stumbled into an intersection of 4-5 different topics. The latter situation is a clear direction that tells me “there’s something in that area worth exploring”. If I had a weekly or bi-weekly schedule, acting on that urge to follow these topics wouldn’t be feasible to me.
+These categories make writing the first draft easy for me. Sometimes the result is good enough to publish, most other times it needs editing. The first two topics I’ve taken to write about took 2-3 hours each . Other times, posts take up to 15 hours and 6 editing passes spread across 3 months of writing, stewing, splitting, editing and rewriting. And if Tim Urban’s “[Wait but why](https://waitbutwhy.com/)” is any indication, [some topics require years of writing](https://waitbutwhy.com/2019/08/story-of-us.html).  Sometimes the result ends up being too wordy, other times my thoughts are all over the place and I realise I stumbled into an intersection of 4-5 different topics. The latter situation is a clear direction that tells me “there’s something in that area worth exploring”. If I had a weekly or bi-weekly schedule, acting on that urge to follow these topics wouldn’t be feasible to me.
 
 <**great spot for an image - forest of all knowledge**>
 
@@ -136,7 +134,7 @@ I found that the most difficult obstacle for me to jump over was to actually sta
 
 ### In conclusion
 
-I want to focus on writing daily about interesting topics. Most of this writing time will go to a limited number of editing passes. I’m doing this in my spare time and I don’t want to publish something I think is a waste of your time as a reader. I’m still enamoured with the idea of having some sort of a schedule. I definitely want to explore that in the future. But it means there won’t be a fixed schedule for now.
+I want to focus on writing daily about interesting topics. Most of this writing time will go to a limited number of editing passes. I don’t want to publish something I think is a waste of your time as a reader. I’m still enamoured with the idea of having some sort of a schedule. I definitely want to explore that in the future. But there won’t be a fixed schedule for now.
 
 Finally, I’d like to make a few promises I know I can keep:
 * I will write every day. There might be a single day missed every now and then, but it [won’t happen 2 days in a row](https://www.youtube.com/watch?v=bfLHTLQZ5nc).
